@@ -1,0 +1,29 @@
+{
+  "name": "df17-demo-static",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Marat Vyshegorodtsev",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "@salesforce/eslint-plugin-aura": "^1.0.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "css-loader": "^0.28.7",
+    "eslint": "^4.10.0",
+    "eslint-loader": "^1.9.0",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "file-loader": "^1.1.5",
+    "imports-loader": "^0.7.1",
+    "loader-utils": "^1.1.0",
+    "url-loader": "^0.6.2",
+    "webpack": "^3.8.1",
+    "webpack-cli": "^2.1.4",
+    "webpack-command": "^0.2.0"
+  },
+  "dependencies": {
+    "choices.js": "^3.0.2",
+    "npm": "^6.1.0"
+  },
+  "browserlist": "last 2 versions, ie 11"
+}

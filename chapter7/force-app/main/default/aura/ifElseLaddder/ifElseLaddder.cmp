@@ -1,0 +1,30 @@
+<aura:component >
+
+    <aura:attribute name="truthy" type="Boolean" default="false"/>
+    <aura:attribute name="innerCmpDisplay" type="Boolean" default="true"/>
+    <aura:attribute name="arraySize" type="List" default="[]"/>
+
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+
+    <aura:iteration items="1,2,3,4,5" var="item">
+    <aura:if isTrue="{!v.truthy}">
+        True 
+        <aura:set attribute="else">
+          <aura:iteration items="{!v.arraySize}" var="i">
+            <aura:if isTrue="{!v.innerCmpDisplay}">
+                <div>
+                    {!i}
+                </div>
+                <aura:iteration items="{!v.arraySize}" var="j">
+                    <aura:if isTrue="{!v.innerCmpDisplay}">
+                        <div>
+                            {!j}
+                        </div>
+                    </aura:if>
+                </aura:iteration>
+            </aura:if>
+          </aura:iteration>
+        </aura:set>
+      </aura:if> 
+    </aura:iteration>
+</aura:component>	

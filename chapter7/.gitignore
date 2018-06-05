@@ -1,0 +1,24 @@
+# Salesforce DX
+.sfdx
+*.dup
+
+# Salesforce Metadata
+src
+
+# Visual Studio Code
+.vscode
+
+# Any JetBrains IDE
+.idea
+
+# IlluminatedCloud
+IlluminatedCloud
+
+# Node.js
+react-app/node_modules
+
+# Static Resource Node Modules
+staticresources-src/node_modules
+
+# Any Cached node_modules
+C:Devnodejsnpm-cache

@@ -1,0 +1,6 @@
+<aura:component >
+    <ltng:require styles="{!$Resource.styles}" scripts="{!$Resource.app}" afterScriptsLoaded="{!c.jsLoaded}" />
+    <div>
+        <input type="text" aura:id="choices" />
+    </div>
+</aura:component>

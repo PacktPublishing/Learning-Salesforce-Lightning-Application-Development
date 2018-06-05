@@ -1,0 +1,8 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId" access="global">
+    <ltng:require scripts="{!$Resource.chartJS}" afterScriptsLoaded="{!c.afterScriptsLoaded}"/>
+    <div class="chart-container">
+        <div class="pie-chart-container">
+            <canvas aura:id="piechart" id="piechart"/>
+        </div>
+    </div>
+</aura:component>	

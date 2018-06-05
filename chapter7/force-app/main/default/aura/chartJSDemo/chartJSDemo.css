@@ -1,0 +1,15 @@
+.THIS {
+    background-color: #fff;
+}
+
+.THIS .chart-container {
+    width: 80%;
+    height: 480px;
+    margin: 50 auto;
+}
+
+.THIS .pie-chart-container {
+    height: 500px;
+    width: 500px;
+    float: left;
+}

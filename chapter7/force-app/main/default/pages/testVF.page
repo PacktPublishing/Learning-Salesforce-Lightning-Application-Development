@@ -1,0 +1,30 @@
+<apex:page controller="vfController">
+
+    <apex:slds/>
+
+    <input id="message" type="text"/>
+    <button onclick="sendToLC()">Send to LC</button>
+
+<script>
+    var lexOrigin = "https://{!JSENCODE(SalesforceDomain)}.lightning.force.com";
+
+    console.log(lexOrigin);
+
+    window.addEventListener("message", function(event) {
+        if (event.origin !== lexOrigin) {
+            // Not the expected origin: reject message!
+            return;
+        }
+        // Handle message
+        console.log(event.data);
+    }, false);
+
+    function sendToLC() {
+        var message = document.getElementById("message").value;
+        console.log('Message To Send..'+message);
+        parent.postMessage(message, lexOrigin);
+    }
+
+</script>
+
+</apex:page>

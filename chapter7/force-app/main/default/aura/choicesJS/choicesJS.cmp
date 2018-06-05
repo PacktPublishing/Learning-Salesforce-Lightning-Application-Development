@@ -1,0 +1,6 @@
+<aura:component >
+    <ltng:require styles="{!join(',',$Resource.ChoicesJS + '/choicesJS/base.min.css',$Resource.ChoicesJS + '/choicesJS/choices.min.css')}" scripts="{!$Resource.ChoicesJS + '/choicesJS/choices.min.js'}" afterScriptsLoaded="{!c.jsLoaded}"/>
+    <div id="divId">
+        <input type="text" aura:id="choices" />
+    </div>
+</aura:component>

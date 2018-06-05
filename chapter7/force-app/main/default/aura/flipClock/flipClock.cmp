@@ -1,0 +1,6 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId" access="global" >
+    <ltng:require styles="{!$Resource.flipClock + '/flipclock/flipclock.css'}" scripts="{!join(',', $Resource.flipClock + '/flipclock/jquery-1.8.3.js', $Resource.flipClock + '/flipclock/flipclock.js')}" afterScriptsLoaded="{!c.afterScriptsLoaded}" />
+    <div class="clock" style="margin:2em;">
+
+    </div>
+</aura:component>

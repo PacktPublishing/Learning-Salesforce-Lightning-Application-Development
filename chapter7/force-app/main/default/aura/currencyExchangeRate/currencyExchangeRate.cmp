@@ -1,0 +1,38 @@
+<aura:component>
+   <aura:attribute name="exchangeRateData" type="List" default="[]"/>
+   <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+   <div class="slds-box slds-align_absolute-center" style="height: 5rem;">
+      Base Currency for Result is in <b> EUR </b>
+   </div>
+   <br/>
+   <div>
+      <table class="slds-table slds-table_bordered slds-table_cell-buffer">
+         <thead>
+            <tr class="slds-text-title_caps">
+               <th scope="col">
+                  <div class="slds-truncate" title="Currency">
+                     <b>Currency</b>
+                  </div>
+               </th>
+               <th scope="col">
+                  <div class="slds-truncate" title="Rate">
+                     <b>Rate</b>
+                  </div>
+               </th>
+            </tr>
+         </thead>
+         <tbody>
+            <aura:iteration items="{!v.exchangeRateData}" var="item">
+               <tr>
+                  <th scope="row" data-label="Currency">
+                     <div class="slds-truncate" title="Currency">{!item.currency}</div>
+                  </th>
+                  <td data-label="Rate">
+                     <div class="slds-truncate" title="Rate">{!item.rate}</div>
+                  </td>
+               </tr>
+            </aura:iteration>
+         </tbody>
+      </table>
+   </div>
+</aura:component>
