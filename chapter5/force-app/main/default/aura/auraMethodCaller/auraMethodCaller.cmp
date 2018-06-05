@@ -1,0 +1,8 @@
+<!-- c:auraMethodCaller.cmp -->
+<aura:component >
+    <p>Parent component calls aura:method in child component</p>
+    <c:childMethodCmp aura:id="child" />
+    
+    <lightning:button label="Call aura:method in child component"
+        onclick="{! c.callAuraMethod}" />
+</aura:component>

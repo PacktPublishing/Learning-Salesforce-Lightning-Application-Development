@@ -1,0 +1,17 @@
+<aura:component>
+    <aura:attribute type="Contact[]" name="contactList"/>
+    <c:GetContacts aura:id="child" />
+    <lightning:layout multipleRows="true" horizontalAlign="center" verticalAlign="center">
+         <lightning:layoutItem flexibility="auto" padding="horizontal-small" size="8">
+            <aura:iteration items="{!v.contactList}" var="contact">
+               <lightning:card title="{!contact.Name}">
+                  <p class="slds-p-horizontal_small">
+                     {!contact.Email}
+                  </p>
+               </lightning:card>
+            </aura:iteration>
+         </lightning:layoutItem>
+    </lightning:layout>
+    <lightning:button label="Get Contacts From Server"
+        onclick="{!c.fetchContacts}"/>
+</aura:component> 
