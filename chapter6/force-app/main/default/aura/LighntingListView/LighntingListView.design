@@ -1,0 +1,4 @@
+<design:component >
+    <design:attribute name="ObjectName" label="Object Name" description="Enter Object Name" />
+    <design:attribute name="ListViewName" label="ListView Name" description="Enter Name of the List View" />
+</design:component>

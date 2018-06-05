@@ -1,0 +1,65 @@
+<aura:component controller="SalesLeaderBoardController">
+   <!--ATTRIBUTES DECLARATION -->
+   <aura:attribute name="lstopps" type="Opportunity[]"/>
+   <!--PUBLISHER -->
+
+   <!--EVENT LISTENER -->
+   <aura:handler  event="c:displayDetails" action="{!c.showOppmodal}"/>
+
+   <div class="slds">
+      <div aria-hidden="true" role="dialog" class="slds-modal slds-modal-large slds-fade-in-hide" aura:id="modaldialog">
+         <div class="slds-modal__container">
+            <div class="slds-modal__header">
+               <h2 class="slds-text-heading-medium">List Of Opportunities Closed Won</h2>
+               <button class="slds-button slds-button-icon-inverse slds-modal__close" onclick="{!c.hideModal}">
+                <lightning:icon iconName="utility:close" size="medium" alternativeText="Indicates approval"/>
+                <span class="slds-assistive-text">Close</span>
+               </button>
+            </div>
+            <div class="slds-modal__content">
+               <div>
+                  <table class="slds-table slds-table-bordered slds-max-medium-table-stacked">
+                     <thead>
+                        <tr class="slds-text-heading-label">
+                           <th class="slds-is-sortable" scope="col">
+                              <span class="slds-truncate">Opportunity Name</span>
+                           </th>
+                           <th scope="col">
+                              <span class="slds-truncate">Account Name</span>
+                           </th>
+                           <th scope="col">
+                              <span class="slds-truncate">Close Date</span>
+                           </th>
+                           <th scope="col">
+                              <span class="slds-truncate">Amount</span>
+                           </th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <aura:iteration items="{!v.lstopps}" var="opp">
+                           <tr class="slds-hint-parent">
+                              <th data-label="opportunity-name" role="row"><a href="#" class="slds-truncate">{!opp.Name}</a></th>
+                              <td data-label="account"><a href="#" class="slds-truncate">{!opp.Account.Name}</a></td>
+                              <td data-label="Close Date">
+                                 <span class="slds-truncate">{!opp.CloseDate}</span>
+                              </td>
+                              <td data-label="amount">
+                                 <span class="slds-truncate">${!opp.Amount}</span>
+                              </td>
+                           </tr>
+                        </aura:iteration>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="slds-modal__footer">
+               <div class="slds-x-small-buttons-horizontal">
+                  <button class="slds-button slds-button-neutral" onclick="{!c.hideModal}">Cancel</button>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="slds-backdrop slds-backdrop-hide" aura:id="backdrop">
+      </div>
+   </div>
+</aura:component>

@@ -1,0 +1,7 @@
+<aura:component implements="force:hasRecordId,flexipage:availableForRecordHome,flexipage:availableForAllPageTypes">
+    <lightning:layout verticalAlign="start" multipleRows="true">
+        <lightning:layoutItem flexibility="auto" padding="around-small">
+            <lightning:button  variant="brand" label="Trigger Toaster" onclick="{!c.fireToaster}" class="btn"/>
+        </lightning:layoutItem>
+</lightning:layout>
+</aura:component>    

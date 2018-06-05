@@ -1,0 +1,21 @@
+<aura:component implements="flexipage:availableForRecordHome,flexipage:availableForAllPageTypes" access="global">
+        <lightning:carousel>
+                <lightning:carouselImage
+                   src = "{!$Resource.Module1}"
+                   header = "Trailhead Module 1"
+                   description = "Trailhead Module 1"
+                   alternativeText = "Trailhead Module 1"></lightning:carouselImage>
+               <lightning:carouselImage
+                   src = "{!$Resource.Module2}"
+                   header = "Trailhead Module 2"
+                   description = "Trailhead Module 1"
+                   alternativeText = "Trailhead Module 1">
+               </lightning:carouselImage>
+               <lightning:carouselImage
+                   src = "{!$Resource.Module3}"
+                   header = "Trailhead Module 3"
+                   description = "Trailhead Module 3"
+                   alternativeText = "Trailhead Module 3">
+               </lightning:carouselImage>
+              </lightning:carousel>
+</aura:component>    

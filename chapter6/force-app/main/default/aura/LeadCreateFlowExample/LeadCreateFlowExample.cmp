@@ -1,0 +1,11 @@
+<aura:component implements="lightning:availableForFlowScreens,flexipage:availableForRecordHome,flexipage:availableForAllPageTypes" access="global">
+    <aura:attribute name="leadRec" type="Lead" default="{'sobjectType':'Lead'}"/>
+        <lightning:layout verticalAlign="start" multipleRows="true">
+                <lightning:layoutItem flexibility="auto" padding="around-small">
+                    <lightning:input name="LastName" label="Last Name" value="{!v.leadRec.LastName}"/>
+                    <lightning:input name="Company" label="Company" value="{!v.leadRec.Company}"/>
+                    <lightning:button  variant="brand"  class="btn" label="Create new lead" onclick="{!c.createLead}"/>
+                </lightning:layoutItem>
+        </lightning:layout>
+        <lightning:flow aura:id="flowData" onstatuschange="{!c.handlestatuschange}"/>
+</aura:component>    

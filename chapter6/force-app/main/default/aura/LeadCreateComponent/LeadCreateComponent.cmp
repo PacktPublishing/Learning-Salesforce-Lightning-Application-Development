@@ -1,0 +1,14 @@
+<aura:component implements="force:hasRecordId,flexipage:availableForRecordHome">
+    <lightning:layout verticalAlign="start" multipleRows="true">
+        <lightning:layoutItem flexibility="auto" padding="around-small">
+            <lightning:recordEditForm aura:id="recordEditForm" 
+                                objectApiName="Lead" onsuccess="{!c.handleSuccess}" onsubmit="{!c.handleSubmit}" onload="{!c.handleOnload}">
+                <lightning:messages />
+                <lightning:inputField fieldName="Name" />
+                <lightning:inputField fieldName="Company" value="{!v.companyName}" aura:id="company"/>
+                <lightning:inputField fieldName="Phone" />
+                <lightning:button  variant="brand" class="btn" type="submit" label="Create new lead" />
+            </lightning:recordEditForm>
+        </lightning:layoutItem>
+    </lightning:layout>
+</aura:component>

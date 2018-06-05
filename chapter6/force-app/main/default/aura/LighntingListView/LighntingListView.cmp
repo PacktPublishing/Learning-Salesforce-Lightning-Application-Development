@@ -1,0 +1,14 @@
+<aura:component implements="flexipage:availableForRecordHome,flexipage:availableForAllPageTypes">
+
+    <aura:attribute name="ObjectName" type="String" default="Account"/>
+    <aura:attribute name="ListViewName" type="String" default="My_Accounts"/>
+
+    <lightning:listView aura:id="listViewAccounts"
+    objectApiName="{!v.ObjectName}"
+    listName="{!v.ListViewName}"
+    rows="15"
+    showActionBar="false"
+    enableInlineEdit="true"
+    showRowLevelActions="false"/>
+        
+</aura:component>    

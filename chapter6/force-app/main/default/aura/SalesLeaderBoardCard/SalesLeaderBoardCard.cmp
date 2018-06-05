@@ -1,0 +1,37 @@
+<aura:component >
+   <!--ATTRIBUTES DECLARATION -->
+   <aura:attribute name="salesUser" type="SalesLeader"/>
+
+   <!--REGISTER EVENT -->
+   <aura:registerEvent name="openDetailModal" type="c:displayDetails"/>
+
+        <div class="slds-card" onclick="{!c.displayOpportunities}">
+            <div class="slds-media slds-media-center">
+               <div class="slds-media__figure">
+                  <a aura:id="leadercard" >
+                  <img src="{!v.salesUser.photoURL}" style="height:90px;" alt="Placeholder" />
+                  </a>
+               </div>
+               <div class="slds-media__body">
+                  <div class="slds-tile__detail">
+                     <dl class="slds-dl_horizontal slds-text-body-large">
+                        <dt class="slds-dl-horizontal__label">
+                           <p class="slds-truncate">Name:</p>
+                           <p class="slds-truncate">{!v.salesUser.fullname}</p>
+                        </dt>
+                        <dt class="slds-dl-horizontal__label">
+                           <p class="slds-truncate">Email:</p>
+                           <p class="slds-truncate">{!v.salesUser.email}</p>
+                        </dt>
+                        <dt class="slds-dl-horizontal__label">
+                           <p class="slds-truncate">Total Revenue(USD):</p>
+                           <p class="slds-truncate">{!v.salesUser.netsales}</p>
+                        </dt>
+                     </dl>
+                  </div>
+               </div>
+            </div>
+        </div>
+    <!-- Detail Component -->
+    <c:SalesLeaderBoardDetail />
+</aura:component>
