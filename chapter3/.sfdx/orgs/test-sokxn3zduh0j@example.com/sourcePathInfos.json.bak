@@ -1,0 +1,1247 @@
+[
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1528237657613,
+            "changeTime": 1528237657613,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1528237657613,
+            "changeTime": 1528237657613,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1528238524872,
+            "changeTime": 1528238524872,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1528238440435,
+            "changeTime": 1528238440435,
+            "contentHash": "04885d3b56dac6acba2ac87e57dafd07398a52f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpace",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpace",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1528237857265,
+            "changeTime": 1528237857265,
+            "contentHash": "27be8e62bce7b3eaaa825e64caf908ff6c5388b7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpace/HorizontalAlignSpace.app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpace/HorizontalAlignSpace.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1242,
+            "modifiedTime": 1528237866181,
+            "changeTime": 1528237866181,
+            "contentHash": "9b401f93661a4bab9847cbc6f332432cd8626820",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpace/HorizontalAlignSpace.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpace/HorizontalAlignSpace.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 254,
+            "modifiedTime": 1528237857241,
+            "changeTime": 1528237857241,
+            "contentHash": "2aabcae30f616293a3067c5fef7400f0cf6243b1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpace/HorizontalAlignSpace.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpace/HorizontalAlignSpace.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1528237857265,
+            "changeTime": 1528237857265,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpace/HorizontalAlignSpace.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpace/HorizontalAlignSpace.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1528237857258,
+            "changeTime": 1528237857258,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpace/HorizontalAlignSpace.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpace/HorizontalAlignSpace.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1528237857264,
+            "changeTime": 1528237857264,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpace/HorizontalAlignSpaceController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpace/HorizontalAlignSpaceController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1528237857251,
+            "changeTime": 1528237857251,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpace/HorizontalAlignSpaceHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpace/HorizontalAlignSpaceHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1528237857255,
+            "changeTime": 1528237857255,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpace/HorizontalAlignSpaceRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpace/HorizontalAlignSpaceRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1528237857263,
+            "changeTime": 1528237857263,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpread",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpread",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1528237887234,
+            "changeTime": 1528237887234,
+            "contentHash": "d9415b4bb5b8e98fc2432d89d94f273a408efa60",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpread/HorizontalAlignSpread.app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpread/HorizontalAlignSpread.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1244,
+            "modifiedTime": 1528237896395,
+            "changeTime": 1528237896395,
+            "contentHash": "6a828dee8547f77102ea51155a04d1853f3ca974",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpread/HorizontalAlignSpread.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpread/HorizontalAlignSpread.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 255,
+            "modifiedTime": 1528237887218,
+            "changeTime": 1528237887218,
+            "contentHash": "13af00b4f6592b48d8cf568bc902b7a20e92aa4c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpread/HorizontalAlignSpread.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpread/HorizontalAlignSpread.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1528237887235,
+            "changeTime": 1528237887235,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpread/HorizontalAlignSpread.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpread/HorizontalAlignSpread.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1528237887222,
+            "changeTime": 1528237887222,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpread/HorizontalAlignSpread.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpread/HorizontalAlignSpread.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1528237887233,
+            "changeTime": 1528237887233,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpread/HorizontalAlignSpreadController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpread/HorizontalAlignSpreadController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1528237887219,
+            "changeTime": 1528237887219,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpread/HorizontalAlignSpreadHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpread/HorizontalAlignSpreadHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1528237887220,
+            "changeTime": 1528237887220,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpread/HorizontalAlignSpreadRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/HorizontalAlignSpread/HorizontalAlignSpreadRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1528237887230,
+            "changeTime": 1528237887230,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultiDeviceWithSize",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultiDeviceWithSize",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1528238147808,
+            "changeTime": 1528238147808,
+            "contentHash": "0ac8ca531262c5a18def1c81f87621f0d9523091",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultiDeviceWithSize/MultiDeviceWithSize.app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultiDeviceWithSize/MultiDeviceWithSize.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1620,
+            "modifiedTime": 1528238155370,
+            "changeTime": 1528238155370,
+            "contentHash": "2b9f30990c8e3d2ddb3d6078f74a6b821a2c4878",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultiDeviceWithSize/MultiDeviceWithSize.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultiDeviceWithSize/MultiDeviceWithSize.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 253,
+            "modifiedTime": 1528238147795,
+            "changeTime": 1528238147795,
+            "contentHash": "0354e8c3ddf7269dca243c7b490d0a0012c6c545",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultiDeviceWithSize/MultiDeviceWithSize.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultiDeviceWithSize/MultiDeviceWithSize.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1528238147808,
+            "changeTime": 1528238147808,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultiDeviceWithSize/MultiDeviceWithSize.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultiDeviceWithSize/MultiDeviceWithSize.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1528238147805,
+            "changeTime": 1528238147805,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultiDeviceWithSize/MultiDeviceWithSize.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultiDeviceWithSize/MultiDeviceWithSize.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1528238147807,
+            "changeTime": 1528238147807,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultiDeviceWithSize/MultiDeviceWithSizeController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultiDeviceWithSize/MultiDeviceWithSizeController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1528238147797,
+            "changeTime": 1528238147797,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultiDeviceWithSize/MultiDeviceWithSizeHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultiDeviceWithSize/MultiDeviceWithSizeHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1528238147803,
+            "changeTime": 1528238147803,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultiDeviceWithSize/MultiDeviceWithSizeRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultiDeviceWithSize/MultiDeviceWithSizeRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1528238147806,
+            "changeTime": 1528238147806,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultipleRowsWithSize",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultipleRowsWithSize",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1528238071868,
+            "changeTime": 1528238071868,
+            "contentHash": "72471348b449d79998741dfb5bd924e2c79d6dec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultipleRowsWithSize/MultipleRowsWithSize.app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultipleRowsWithSize/MultipleRowsWithSize.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1372,
+            "modifiedTime": 1528238083066,
+            "changeTime": 1528238083066,
+            "contentHash": "6d2b2058f665957412e95bd86df7bf87c1720125",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultipleRowsWithSize/MultipleRowsWithSize.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultipleRowsWithSize/MultipleRowsWithSize.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 254,
+            "modifiedTime": 1528238071858,
+            "changeTime": 1528238071858,
+            "contentHash": "607dbe725347a188c9b3aa81d5628303f0afa786",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultipleRowsWithSize/MultipleRowsWithSize.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultipleRowsWithSize/MultipleRowsWithSize.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1528238071868,
+            "changeTime": 1528238071868,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultipleRowsWithSize/MultipleRowsWithSize.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultipleRowsWithSize/MultipleRowsWithSize.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1528238071865,
+            "changeTime": 1528238071865,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultipleRowsWithSize/MultipleRowsWithSize.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultipleRowsWithSize/MultipleRowsWithSize.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1528238071866,
+            "changeTime": 1528238071866,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultipleRowsWithSize/MultipleRowsWithSizeController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultipleRowsWithSize/MultipleRowsWithSizeController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1528238071860,
+            "changeTime": 1528238071860,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultipleRowsWithSize/MultipleRowsWithSizeHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultipleRowsWithSize/MultipleRowsWithSizeHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1528238071864,
+            "changeTime": 1528238071864,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultipleRowsWithSize/MultipleRowsWithSizeRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/MultipleRowsWithSize/MultipleRowsWithSizeRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1528238071866,
+            "changeTime": 1528238071866,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/NestedLayoutApp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/NestedLayoutApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1528238201121,
+            "changeTime": 1528238201121,
+            "contentHash": "78030cfa985c3e5165af98de3c427947674beaee",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/NestedLayoutApp/NestedLayoutApp.app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/NestedLayoutApp/NestedLayoutApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2384,
+            "modifiedTime": 1528238205777,
+            "changeTime": 1528238205777,
+            "contentHash": "0a4435b01d4bca77a66333031b71eeb0422ce460",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/NestedLayoutApp/NestedLayoutApp.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/NestedLayoutApp/NestedLayoutApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 249,
+            "modifiedTime": 1528238201115,
+            "changeTime": 1528238201115,
+            "contentHash": "54134f9ea017f3ca226b248baf750067dedcac4d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/NestedLayoutApp/NestedLayoutApp.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/NestedLayoutApp/NestedLayoutApp.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1528238201121,
+            "changeTime": 1528238201121,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/NestedLayoutApp/NestedLayoutApp.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/NestedLayoutApp/NestedLayoutApp.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 323,
+            "modifiedTime": 1528238224827,
+            "changeTime": 1528238224827,
+            "contentHash": "75275bcb722c827895604828c6735b3479a0637c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/NestedLayoutApp/NestedLayoutApp.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/NestedLayoutApp/NestedLayoutApp.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1528238201120,
+            "changeTime": 1528238201120,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/NestedLayoutApp/NestedLayoutAppController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/NestedLayoutApp/NestedLayoutAppController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1528238201116,
+            "changeTime": 1528238201116,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/NestedLayoutApp/NestedLayoutAppHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/NestedLayoutApp/NestedLayoutAppHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1528238201116,
+            "changeTime": 1528238201116,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/NestedLayoutApp/NestedLayoutAppRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/NestedLayoutApp/NestedLayoutAppRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1528238201119,
+            "changeTime": 1528238201119,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignAutoFlexibility",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignAutoFlexibility",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1528238014275,
+            "changeTime": 1528238014275,
+            "contentHash": "dd2944265667c3da8fc12bbafa54cd4299ab15ad",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignAutoFlexibility/VerticalAlignAutoFlexibility.app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignAutoFlexibility/VerticalAlignAutoFlexibility.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1316,
+            "modifiedTime": 1528238032110,
+            "changeTime": 1528238032110,
+            "contentHash": "4980acb64e7491dbeb2a3b938d857e8be6423b0c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignAutoFlexibility/VerticalAlignAutoFlexibility.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignAutoFlexibility/VerticalAlignAutoFlexibility.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 262,
+            "modifiedTime": 1528238014268,
+            "changeTime": 1528238014268,
+            "contentHash": "2be656fbbe4558c4d42d35599769ee31434dbb1a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignAutoFlexibility/VerticalAlignAutoFlexibility.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignAutoFlexibility/VerticalAlignAutoFlexibility.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1528238014275,
+            "changeTime": 1528238014275,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignAutoFlexibility/VerticalAlignAutoFlexibility.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignAutoFlexibility/VerticalAlignAutoFlexibility.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1528238014272,
+            "changeTime": 1528238014272,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignAutoFlexibility/VerticalAlignAutoFlexibility.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignAutoFlexibility/VerticalAlignAutoFlexibility.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1528238014274,
+            "changeTime": 1528238014274,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignAutoFlexibility/VerticalAlignAutoFlexibilityController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignAutoFlexibility/VerticalAlignAutoFlexibilityController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1528238014269,
+            "changeTime": 1528238014269,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignAutoFlexibility/VerticalAlignAutoFlexibilityHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignAutoFlexibility/VerticalAlignAutoFlexibilityHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1528238014271,
+            "changeTime": 1528238014271,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignAutoFlexibility/VerticalAlignAutoFlexibilityRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignAutoFlexibility/VerticalAlignAutoFlexibilityRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1528238014273,
+            "changeTime": 1528238014273,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignStart",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignStart",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1528237979701,
+            "changeTime": 1528237979701,
+            "contentHash": "dafd211ce1c8978767c8e169d8e029bdec5a8d90",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignStart/VerticalAlignStart.app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignStart/VerticalAlignStart.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1240,
+            "modifiedTime": 1528237985952,
+            "changeTime": 1528237985952,
+            "contentHash": "c1277196673ccc301dd703eb97d2e5dc9e200e50",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignStart/VerticalAlignStart.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignStart/VerticalAlignStart.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 252,
+            "modifiedTime": 1528237979697,
+            "changeTime": 1528237979697,
+            "contentHash": "9c6ddb7c877602a061b0f18bfc4f9b162d7d63e8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignStart/VerticalAlignStart.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignStart/VerticalAlignStart.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1528237979702,
+            "changeTime": 1528237979702,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignStart/VerticalAlignStart.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignStart/VerticalAlignStart.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1528237979700,
+            "changeTime": 1528237979700,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignStart/VerticalAlignStart.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignStart/VerticalAlignStart.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1528237979701,
+            "changeTime": 1528237979701,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignStart/VerticalAlignStartController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignStart/VerticalAlignStartController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1528237979698,
+            "changeTime": 1528237979698,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignStart/VerticalAlignStartHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignStart/VerticalAlignStartHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1528237979699,
+            "changeTime": 1528237979699,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignStart/VerticalAlignStartRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/VerticalAlignStart/VerticalAlignStartRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1528237979700,
+            "changeTime": 1528237979700,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1528238440485,
+            "changeTime": 1528238440485,
+            "contentHash": "0b0a24a5059f7e94599e435caa1984fa2ae4239b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearch.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearch.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1528238440484,
+            "changeTime": 1528238440484,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearch.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearch.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2094,
+            "modifiedTime": 1528238454028,
+            "changeTime": 1528238454028,
+            "contentHash": "f2cad10ec46b276d568b0de511c56e45af365a49",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearch.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearch.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 245,
+            "modifiedTime": 1528238440437,
+            "changeTime": 1528238440437,
+            "contentHash": "b5e6c913a3d81ac3239a513b7fce9ea890deeb84",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearch.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearch.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1528238440481,
+            "changeTime": 1528238440481,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearch.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearch.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1528238440485,
+            "changeTime": 1528238440485,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearch.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearch.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1528238440483,
+            "changeTime": 1528238440483,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearchController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearchController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 113,
+            "modifiedTime": 1528238467554,
+            "changeTime": 1528238467554,
+            "contentHash": "f53ac559c0d1dd7b5e5d18c0637423a2a5f2c82d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearchHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearchHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1317,
+            "modifiedTime": 1528238488612,
+            "changeTime": 1528238488612,
+            "contentHash": "50f83f9df23931df32462ff0e80775834853c896",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearchRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearchRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1528238440482,
+            "changeTime": 1528238440482,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1528238580150,
+            "changeTime": 1528238580150,
+            "contentHash": "88175822898a8d3e8e0d0b24f066b35f639e3772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/classes/YoutubeDataParser.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/classes/YoutubeDataParser.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2329,
+            "modifiedTime": 1528238558526,
+            "changeTime": 1528238558526,
+            "contentHash": "3ce50736cd63e76c4b0e26134728323d5c927c98",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/classes/YoutubeDataParser.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/classes/YoutubeDataParser.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1528238548509,
+            "changeTime": 1528238548509,
+            "contentHash": "c3b8b2367ebae64b9572e7f02a9ca291c406b568",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/classes/Youtubesearch.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/classes/Youtubesearch.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 927,
+            "modifiedTime": 1528238585827,
+            "changeTime": 1528238585827,
+            "contentHash": "5a1d7676e6014ade1ff2944b11c388ed5f4ae1ea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/classes/Youtubesearch.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/classes/Youtubesearch.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 191,
+            "modifiedTime": 1528238580150,
+            "changeTime": 1528238580150,
+            "contentHash": "dda1b6fd69bae4bb3c5fb408d6115167aa8d32c3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1528240517746,
+            "changeTime": 1528240517746,
+            "contentHash": "345c04f0bb30a9c2f22b188cc96e39de4179450a",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

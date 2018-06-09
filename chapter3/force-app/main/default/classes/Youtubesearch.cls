@@ -1,6 +1,6 @@
 public with sharing class Youtubesearch {
 
-    public static final string key = '<API Key>';
+    public static final string key = 'AIzaSyCRnXgSQpn_Z0WC0zEgbzGF92IEp9SRLQw';
 
     public static final string youtubesearchURL = 'https://www.googleapis.com/youtube/v3/search?key='+key+'&part=snippet';
 
