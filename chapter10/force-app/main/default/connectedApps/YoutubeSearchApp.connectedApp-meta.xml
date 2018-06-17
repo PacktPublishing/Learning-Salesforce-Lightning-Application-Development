@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>mohith@codescience.com</contactEmail>
+    <contactPhone>4693073326</contactPhone>
+    <label>YoutubeSearchApp</label>
+    <oauthConfig>
+        <callbackUrl>https://infinite-brushlands-64356.herokuapp.com/oauthcallback.html
+http://localhost:8200/oauthcallback.html
+https://protected-fortress-46904.herokuapp.com/oauth/_callback</callbackUrl>
+        <consumerKey>3MVG9JamK_x9K2XI99fdzq3yLlbGhfhg6FEM_8bszwi4XeG1ktlVrQf1B9tZr8cuTLBgAkl2lk.psKz7JZw0Q</consumerKey>
+        <scopes>Basic</scopes>
+        <scopes>Api</scopes>
+        <scopes>Full</scopes>
+    </oauthConfig>
+</ConnectedApp>

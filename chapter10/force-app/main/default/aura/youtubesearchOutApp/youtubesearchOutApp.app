@@ -1,4 +1,3 @@
-<aura:application access="GLOBAL" extends="ltng:outApp"> 
+<aura:application access="GLOBAL" extends="ltng:outApp" implements="ltng:allowGuestAccess"> 
     <aura:dependency resource="youtubesearch"/>
-    <aura:dependency resource="markup://force:navigateToURL" type="EVENT"/>
-</aura:application>	
+</aura:application>

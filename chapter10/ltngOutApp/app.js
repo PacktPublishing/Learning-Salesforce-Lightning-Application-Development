@@ -7,7 +7,7 @@ let oauth = OAuth.createInstance("3MVG9JamK_x9K2XI99fdzq3yLlbGhfhg6FEM_8bszwi4Xe
                                 );
 oauth.login()
     .then(oauthResult => {
-        console.log(oauthResult);
+        //console.log(oauthResult);
         renderLightningOutComponent(oauthResult);
     });
 

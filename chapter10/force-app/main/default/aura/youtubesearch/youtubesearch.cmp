@@ -1,4 +1,4 @@
-<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes" access="global" controller="YoutubeSearch">
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes" access="global" controller="Youtubesearch">
    <aura:attribute name="searchTerm" type="String" />
    <!--ATTRIBUTES DECLARATION -->
    <aura:attribute name="data" type="Object"/>
@@ -34,4 +34,4 @@
          </lightning:layoutItem>
       </lightning:layout>
    </div>
-</aura:component>	
+</aura:component>
