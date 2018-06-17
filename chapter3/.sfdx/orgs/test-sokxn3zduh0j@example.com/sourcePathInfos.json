@@ -4,10 +4,10 @@
         {
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1528237657613,
-            "changeTime": 1528237657613,
-            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "size": 128,
+            "modifiedTime": 1528578966914,
+            "changeTime": 1528578966914,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -19,10 +19,10 @@
         {
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1528237657613,
-            "changeTime": 1528237657613,
-            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "size": 128,
+            "modifiedTime": 1528578966910,
+            "changeTime": 1528578966910,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -32,27 +32,31 @@
     [
         "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default",
             "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1528578966897,
+            "changeTime": 1528578966897,
+            "contentHash": "f479a5ca90abd5b3805b09ca5b180e631f7c36ed",
             "isMetadataFile": false,
-            "size": 160,
-            "modifiedTime": 1528520133360,
-            "changeTime": 1528520133360,
-            "contentHash": "35e4e943adcc4c668c0f9cb79a944ff96758a88e"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1528520133345,
             "changeTime": 1528520133345,
-            "contentHash": "0b96dd26a29384d0eacfa114ddd9f7ca2e612c65"
+            "contentHash": "0b96dd26a29384d0eacfa114ddd9f7ca2e612c65",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1035,14 +1039,13 @@
         {
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearch.cmp",
             "isDirectory": false,
-            "size": 2094,
-            "modifiedTime": 1528238454028,
-            "changeTime": 1528238454028,
-            "contentHash": "f2cad10ec46b276d568b0de511c56e45af365a49",
+            "size": 2083,
+            "modifiedTime": 1528600649688,
+            "changeTime": 1528600649688,
+            "contentHash": "1628308a6df82a16fca4085edec3db3e27b9dabe",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -1051,8 +1054,8 @@
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearch.cmp-meta.xml",
             "isDirectory": false,
             "size": 245,
-            "modifiedTime": 1528238440437,
-            "changeTime": 1528238440437,
+            "modifiedTime": 1528577845090,
+            "changeTime": 1528577845090,
             "contentHash": "b5e6c913a3d81ac3239a513b7fce9ea890deeb84",
             "isMetadataFile": true,
             "state": "u",
@@ -1125,10 +1128,10 @@
         {
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubesearch/youtubesearchHelper.js",
             "isDirectory": false,
-            "size": 1317,
-            "modifiedTime": 1528238488612,
-            "changeTime": 1528238488612,
-            "contentHash": "50f83f9df23931df32462ff0e80775834853c896",
+            "size": 1449,
+            "modifiedTime": 1528597810554,
+            "changeTime": 1528597810554,
+            "contentHash": "92fc2c9b2017eccc3609d435841b9ee4a59f7b7e",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -1156,8 +1159,8 @@
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/classes",
             "isDirectory": true,
             "size": 192,
-            "modifiedTime": 1528238580150,
-            "changeTime": 1528238580150,
+            "modifiedTime": 1528520133356,
+            "changeTime": 1528520133356,
             "contentHash": "88175822898a8d3e8e0d0b24f066b35f639e3772",
             "isMetadataFile": false,
             "state": "u",
@@ -1202,23 +1205,26 @@
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/classes/Youtubesearch.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 956,
-            "modifiedTime": 1528520133358,
-            "changeTime": 1528520133358,
-            "contentHash": "b388de59500e1c2ff9937ca9f1ca02857988dbc3"
+            "size": 1031,
+            "modifiedTime": 1528601486703,
+            "changeTime": 1528601486703,
+            "isWorkspace": false,
+            "contentHash": "9a24461cfc3cea22de4ae73a51211643f58fd57c"
         }
     ],
     [
         "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/classes/Youtubesearch.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/classes/Youtubesearch.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1528520133353,
             "changeTime": 1528520133353,
-            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1226,79 +1232,88 @@
         {
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3",
             "isDirectory": true,
-            "size": 320,
-            "modifiedTime": 1528240517746,
-            "changeTime": 1528240517746,
-            "contentHash": "345c04f0bb30a9c2f22b188cc96e39de4179450a",
+            "size": 352,
+            "modifiedTime": 1528520299536,
+            "changeTime": 1528520299536,
+            "contentHash": "faa3f2c5f4d0f5d49f67e53c2ef7282e29b4258b",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
         "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubeSearchApp/youtubeSearchApp.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubeSearchApp/youtubeSearchApp.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1528520133347,
             "changeTime": 1528520133347,
-            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubeSearchApp/youtubeSearchApp.app",
         {
-            "state": "u",
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubeSearchApp/youtubeSearchApp.app",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 82,
             "modifiedTime": 1528520133348,
             "changeTime": 1528520133348,
-            "contentHash": "b0354ea6390c2b9d812ef548a9ded06fa1268c2a"
+            "contentHash": "b0354ea6390c2b9d812ef548a9ded06fa1268c2a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/remoteSiteSettings/Youtube.remoteSite-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/remoteSiteSettings/Youtube.remoteSite-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 261,
             "modifiedTime": 1528520133361,
             "changeTime": 1528520133361,
-            "contentHash": "530baff2c616b7bbe2b81812a3eac8e3e34aab95"
+            "contentHash": "530baff2c616b7bbe2b81812a3eac8e3e34aab95",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubeSearchApp",
         {
-            "state": "u",
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/aura/youtubeSearchApp",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1528520133348,
             "changeTime": 1528520133348,
-            "contentHash": "a873ac70005f9ad562a638201aecfe30df51c9e8"
+            "contentHash": "a873ac70005f9ad562a638201aecfe30df51c9e8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/remoteSiteSettings",
         {
-            "state": "u",
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter3/force-app/main/default/remoteSiteSettings",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1528520133361,
             "changeTime": 1528520133361,
-            "contentHash": "582106a4866dbe1503b01fa6f2cf326dedc2bfb5"
+            "contentHash": "582106a4866dbe1503b01fa6f2cf326dedc2bfb5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ]
 ]

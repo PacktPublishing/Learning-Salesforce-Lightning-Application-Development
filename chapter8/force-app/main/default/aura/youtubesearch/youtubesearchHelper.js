@@ -13,6 +13,7 @@
               if (state === "SUCCESS") {
                   var responseData = JSON.parse(response.getReturnValue());
                   console.log(responseData);
+                  debugger;
                   console.log(responseData.kind);
                   component.set("v.data",responseData);
               }

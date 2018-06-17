@@ -2,7 +2,6 @@
     "orgName": "mohith Company",
     "edition": "Developer",
     "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"],
-        "features": ["DebugApex"]
+        "enabled": ["S1DesktopEnabled"]
     }
 }

@@ -1,7 +1,7 @@
 <aura:component implements="force:appHostable,flexipage:availableForAllPageTypes" access="global" controller="YoutubeSearch">
    <aura:attribute name="searchTerm" type="String" />
    <!--ATTRIBUTES DECLARATION -->
-   <aura:attribute name="data" type="Object"/>
+   <aura:attribute name="data" type="Map"/>
    <div class="c-container">
       <lightning:layout multipleRows="true" horizontalAlign="center" verticalAlign="center">
          <lightning:layoutItem flexibility="auto" size="6">

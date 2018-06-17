@@ -1,5 +1,5 @@
 {
-    "sourceApiVersion": "42.0",
+    "sourceApiVersion": "43.0",
     "typeDefs": {
         "InstalledPackage": {
             "metadataName": "InstalledPackage",

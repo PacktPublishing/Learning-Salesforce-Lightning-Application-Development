@@ -16,7 +16,6 @@ public with sharing class Youtubesearch {
         req.setMethod('GET');
         // Send the request, and return a response
         HttpResponse res = h.send(req);
-        system.debug('RESULTS..>>>'+res.getBody());
         return res.getBody();
         //system.debug('RESULTS..>>>'+YoutubeDataParser.parse(res.getBody()));
         //return YoutubeDataParser.parse(res.getBody());
