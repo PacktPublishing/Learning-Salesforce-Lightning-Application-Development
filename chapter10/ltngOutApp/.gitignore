@@ -15,3 +15,8 @@ apex.db
 
 # Node Cache node_modules
 C:Devnodejsnpm-cache
+
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env

@@ -94,7 +94,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\nvar _forcejs = __webpack_require__(/*! forcejs */ \"./node_modules/forcejs/all/index.js\");\n\nvar oauth = _forcejs.OAuth.createInstance();\noauth.login().then(function (oauthResult) {\n    _forcejs.DataService.createInstance(oauthResult);\n    console.log(oauthResult);\n});\n\n//# sourceURL=webpack:///./app.js?");
+eval("\n\nvar _forcejs = __webpack_require__(/*! forcejs */ \"./node_modules/forcejs/all/index.js\");\n\nvar oauth = _forcejs.OAuth.createInstance();\noauth.login().then(function (oauthResult) {\n    _forcejs.DataService.createInstance(oauthResult);\n    console.log(oauthResult);\n    renderLightningOutComponent(oauthResult);\n});\n\nvar renderLightningOutComponent = function renderLightningOutComponent(oauthResult) {\n    var token = \"Bearer \" + oauthResult.accessToken;\n    var lightningEndPointURI = \"https://ability-page-3410-dev-ed..lightning.force.com\";\n    $Lightning.use(\"c:youtubesearchOutApp\", function () {\n        $Lightning.createComponent(\"c:youtubesearch\", {}, \"youtubeApp\", function (cmp) {\n            // do some stuff\n        });\n    }, lightningEndPointURI, token);\n};\n\n//# sourceURL=webpack:///./app.js?");
 
 /***/ }),
 
