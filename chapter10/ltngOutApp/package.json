@@ -19,6 +19,7 @@
     "start": "force-server"
   },
   "engines": {
-    "node": "9.5.0"
+    "node": "9.5.0",
+    "npm": "5.6.0"
   }
 }
