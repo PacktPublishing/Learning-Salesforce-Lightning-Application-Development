@@ -25,8 +25,8 @@
                     }
                 }
             });
-            var requestUrl = "http://apilayer.net/api/check?access_key=64ad719f96635146eb132ce0af5af7ac& email=";
-            requestUrl = requestUrl + component.get("v.email") + '&smtp=' + '&format=1';
+            var requestUrl = "http://apilayer.net/api/check?access_key=64ad719f96635146eb132ce0af5af7ac&email=";
+            requestUrl = requestUrl + component.get("v.email") + '&smtp=1' + '&format=1';
             xhttp.open("GET", requestUrl);
             xhttp.send(null);
         }));

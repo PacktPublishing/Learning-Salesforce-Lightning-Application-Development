@@ -1,6 +1,44 @@
 <aura:component implements="lightning:availableForFlowScreens" access="global">
-      <aura:attribute type="String" name="email" />
-      <aura:attribute type="Boolean" name="validEmail"/>
-      <aura:attribute type="Object" name="serviceResponse" default="{}"/>
-      <aura:handler name="init" value="{!this}" action="{!c.init}"/>
+
+    <aura:attribute type="String" name="email" />
+    <aura:attribute type="Boolean" name="validEmail"/>
+    <aura:attribute type="Object" name="serviceResponse" default="{}"/>
+    <aura:handler name="init" value="{!this}" action="{!c.init}"/>
+
+    <!--Markup for the checks-->
+    <div>
+        <b>Valid Format</b>
+        <aura:if isTrue="{!v.serviceResponse.format_valid}">
+                <lightning:icon iconName="action:update_status" alternativeText="Approved" />
+            <aura:set attribute="else">
+                <lightning:icon iconName="action:close" alternativeText="Rejected" />
+            </aura:set>
+        </aura:if> 
+    </div>
+
+    <br/>
+    <br/>
+
+    <div>
+        <b>SMTP Check</b>
+        <aura:if isTrue="{!v.serviceResponse.smtp_check}">
+                <lightning:icon iconName="action:update_status" alternativeText="Approved" />
+            <aura:set attribute="else">
+                <lightning:icon iconName="action:close" alternativeText="Rejected" />
+            </aura:set>
+        </aura:if> 
+    </div>
+
+    <br/>
+    <br/>
+   
+    <div>
+        <b>Score</b>
+        <lightning:progressBar value="{!mult(v.serviceResponse.score,100)}" size="large" variant="circular"/>
+    </div>
+    
+    
+
+
+
 </aura:component>	
