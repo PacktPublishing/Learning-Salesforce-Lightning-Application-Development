@@ -1,0 +1,528 @@
+[
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1529468202412,
+            "changeTime": 1529468202412,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1529468202412,
+            "changeTime": 1529468202412,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1529600800488,
+            "changeTime": 1529600800488,
+            "contentHash": "2aa5498a1530bf9f349adafef061fd6b6b0733bb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1529809996134,
+            "changeTime": 1529809996134,
+            "contentHash": "dbde253867c81fce13ef901275131d5def620197",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1529728944133,
+            "changeTime": 1529728944133,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flexipages/Home_Page_Default.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flexipages/Home_Page_Default.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 2071,
+            "modifiedTime": 1529600800435,
+            "changeTime": 1529600800435,
+            "contentHash": "96cc7bcd48d0f8087c027bc0356feb023846b151",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flexipages/Home_Page_Default1.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flexipages/Home_Page_Default1.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 2071,
+            "modifiedTime": 1529600800446,
+            "changeTime": 1529600800446,
+            "contentHash": "96cc7bcd48d0f8087c027bc0356feb023846b151",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Finder_App-2.flow-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Finder_App-2.flow-meta.xml",
+            "isDirectory": false,
+            "size": 8491,
+            "modifiedTime": 1529600800457,
+            "changeTime": 1529600800457,
+            "contentHash": "20c6762961fdbced935e92285f7937e8bb3397e8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Finder_App-4.flow-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Finder_App-4.flow-meta.xml",
+            "isDirectory": false,
+            "size": 9175,
+            "modifiedTime": 1529600800472,
+            "changeTime": 1529600800472,
+            "contentHash": "4fc1645d78dddb4fa49c0b531ed15225fd3a0dc2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Finder_App-1.flow-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Finder_App-1.flow-meta.xml",
+            "isDirectory": false,
+            "size": 4543,
+            "modifiedTime": 1529600800478,
+            "changeTime": 1529600800478,
+            "contentHash": "4cb770f84e68f283d3ee836d42943ac1def7f7e8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Finder_App-3.flow-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Finder_App-3.flow-meta.xml",
+            "isDirectory": false,
+            "size": 8491,
+            "modifiedTime": 1529600800486,
+            "changeTime": 1529600800486,
+            "contentHash": "20c6762961fdbced935e92285f7937e8bb3397e8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flowDefinitions/Lead_Finder_App.flowDefinition-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flowDefinitions/Lead_Finder_App.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "size": 171,
+            "modifiedTime": 1529730728051,
+            "changeTime": 1529730728051,
+            "contentHash": "767432ab9859c963a8546147415bdb8979cb362f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1529600800446,
+            "changeTime": 1529600800446,
+            "contentHash": "f6c68fd38626b4587c8f58e03a2f74be88453862",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1529733296383,
+            "changeTime": 1529733296383,
+            "contentHash": "d23cf1a199fe50aa2dc1a34a491156d4b9b6efa0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flowDefinitions",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flowDefinitions",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1529729419592,
+            "changeTime": 1529729419592,
+            "contentHash": "ed0dd312971f1d5057861b12a32dc0709be6f9bc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1529728987596,
+            "changeTime": 1529728987596,
+            "contentHash": "9bae0b981d65a44c79ca70402ff00268d2eab71f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm/LeadEditForm.auradoc",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm/LeadEditForm.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1529728987595,
+            "changeTime": 1529728987595,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm/LeadEditForm.cmp",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm/LeadEditForm.cmp",
+            "isDirectory": false,
+            "size": 288,
+            "modifiedTime": 1529730050002,
+            "changeTime": 1529730050002,
+            "contentHash": "6c06ee6a8a0ee9dfc77e370b7a0a2835de310f36",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm/LeadEditForm.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm/LeadEditForm.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1529728987592,
+            "changeTime": 1529728987592,
+            "contentHash": "91b538d1a8fd3cc734210da792ae3c9ead17aa83",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm/LeadEditForm.css",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm/LeadEditForm.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1529728987593,
+            "changeTime": 1529728987593,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm/LeadEditForm.design",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm/LeadEditForm.design",
+            "isDirectory": false,
+            "size": 93,
+            "modifiedTime": 1529729197781,
+            "changeTime": 1529729197781,
+            "contentHash": "1940b28b207e797973f6f5f09736899975e715a2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm/LeadEditForm.svg",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm/LeadEditForm.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1529728987595,
+            "changeTime": 1529728987595,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm/LeadEditFormController.js",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm/LeadEditFormController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1529728987592,
+            "changeTime": 1529728987592,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm/LeadEditFormHelper.js",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm/LeadEditFormHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1529728987593,
+            "changeTime": 1529728987593,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm/LeadEditFormRenderer.js",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadEditForm/LeadEditFormRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1529728987594,
+            "changeTime": 1529728987594,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/LeadFinderAppWithLightningFlow-1.flow-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/LeadFinderAppWithLightningFlow-1.flow-meta.xml",
+            "isDirectory": false,
+            "size": 9205,
+            "modifiedTime": 1529729419587,
+            "changeTime": 1529729419587,
+            "contentHash": "ca7cc45fd0995ab4a2e6aa9486b18f8d3665c89e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flowDefinitions/LeadFinderAppWithLightningFlow.flowDefinition-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flowDefinitions/LeadFinderAppWithLightningFlow.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "size": 222,
+            "modifiedTime": 1529730728055,
+            "changeTime": 1529730728055,
+            "contentHash": "ddfc8da536c059326781f6f1311f904deb544b3a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Finder_App-5.flow-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Finder_App-5.flow-meta.xml",
+            "isDirectory": false,
+            "size": 9952,
+            "modifiedTime": 1529730728035,
+            "changeTime": 1529730728035,
+            "contentHash": "a4ce0badc94cbf384e1a199b4a732ee8b69a9222",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/LeadFinderAppWithLightningFlow-2.flow-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/LeadFinderAppWithLightningFlow-2.flow-meta.xml",
+            "isDirectory": false,
+            "size": 9205,
+            "modifiedTime": 1529730728048,
+            "changeTime": 1529730728048,
+            "contentHash": "ca7cc45fd0995ab4a2e6aa9486b18f8d3665c89e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Finder_App-6.flow-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Finder_App-6.flow-meta.xml",
+            "isDirectory": false,
+            "size": 9978,
+            "modifiedTime": 1529733296384,
+            "changeTime": 1529733296384,
+            "contentHash": "22261df266d27ea64f0015357052db303af7cfb5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1529809996140,
+            "changeTime": 1529809996140,
+            "contentHash": "8bdcfed3e59ce57552d51d330336740b67e19c9f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerify.auradoc",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerify.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1529809996139,
+            "changeTime": 1529809996139,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerify.cmp",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerify.cmp",
+            "isDirectory": false,
+            "size": 351,
+            "modifiedTime": 1529810260511,
+            "changeTime": 1529810260511,
+            "contentHash": "9cf94b43d223c7f9aa45edb4f7ae76e0cd116306",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerify.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerify.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1529809996136,
+            "changeTime": 1529809996136,
+            "contentHash": "7915d01c308aea89e36ba30d47284945c459b1a4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerify.css",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerify.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1529809996138,
+            "changeTime": 1529809996138,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerify.design",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerify.design",
+            "isDirectory": false,
+            "size": 95,
+            "modifiedTime": 1529810150703,
+            "changeTime": 1529810150703,
+            "contentHash": "3ff8d96af3907a5aba7cfd21c3ef3e381802d6b9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerify.svg",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerify.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1529809996139,
+            "changeTime": 1529809996139,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerifyController.js",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerifyController.js",
+            "isDirectory": false,
+            "size": 115,
+            "modifiedTime": 1529810308090,
+            "changeTime": 1529810308090,
+            "contentHash": "ae3327c68f853b91f86c2951266864c6149b68d7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerifyHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerifyHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1323,
+            "modifiedTime": 1529815724650,
+            "changeTime": 1529815724650,
+            "contentHash": "3eed36a36663b14cdece6cfad05025b2a4ff30ee"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerifyRenderer.js",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerifyRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1529809996138,
+            "changeTime": 1529809996138,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]

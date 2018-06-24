@@ -1,0 +1,6 @@
+<aura:component implements="lightning:availableForFlowScreens" access="global">
+      <aura:attribute type="String" name="email" />
+      <aura:attribute type="Boolean" name="validEmail"/>
+      <aura:attribute type="Object" name="serviceResponse" default="{}"/>
+      <aura:handler name="init" value="{!this}" action="{!c.init}"/>
+</aura:component>	
