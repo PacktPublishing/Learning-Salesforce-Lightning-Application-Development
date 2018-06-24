@@ -36,9 +36,20 @@
         <b>Score</b>
         <lightning:progressBar value="{!mult(v.serviceResponse.score,100)}" size="large" variant="circular"/>
     </div>
-    
-    
 
+    <br/>
+    <br/>
 
+    <div class="slds-clearfix">
+        <div class="slds-clearfix">
+            <div class="slds-float_left">
+                <lightning:button label="Previous" aura:id="BACK" onclick="{!c.handleClick}"/>
+            </div>
+            <div class="slds-float_right">
+                <lightning:button label="Next"  aura:id="NEXT" onclick="{!c.handleClick}" disabled="{!not(and(v.serviceResponse.format_valid,v.serviceResponse.smtp_check,(v.serviceResponse.score > 0.4)))}" variant="brand"/>
+            </div>
+        </div>
+    </div>
+    
 
 </aura:component>	
