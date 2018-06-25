@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionCalls>
+        <name>Get_Current_Location_Of_User</name>
+        <label>Get Current Location Of User</label>
+        <locationX>495</locationX>
+        <locationY>149</locationY>
+        <actionName>c:LocationFinder</actionName>
+        <actionType>component</actionType>
+        <connector>
+            <targetReference>DisplayLocation</targetReference>
+        </connector>
+        <outputParameters>
+            <assignToReference>Latitude</assignToReference>
+            <name>latitude</name>
+        </outputParameters>
+        <outputParameters>
+            <assignToReference>Longitude</assignToReference>
+            <name>longitude</name>
+        </outputParameters>
+    </actionCalls>
+    <interviewLabel>LocationFinder {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>LocationFinder</label>
+    <processType>Flow</processType>
+    <screens>
+        <name>DisplayLocation</name>
+        <label>DisplayLocation</label>
+        <locationX>503</locationX>
+        <locationY>297</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>false</allowPause>
+        <fields>
+            <name>LocationDisplayScreen</name>
+            <fieldText>&lt;DIV ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" STYLE="font-size:12px" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;Your location is as below&lt;/FONT&gt;&lt;/DIV&gt;&lt;DIV ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" STYLE="font-size:12px" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/DIV&gt;&lt;DIV ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" STYLE="font-size:12px" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Latitude :  &lt;/B&gt;&lt;FONT KERNING="1"&gt;{!Latitude}&lt;/FONT&gt;&lt;/FONT&gt;&lt;/DIV&gt;&lt;DIV ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" STYLE="font-size:12px" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;/FONT&gt;&lt;/DIV&gt;&lt;DIV ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" STYLE="font-size:12px" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;&lt;B&gt;Longitude : &lt;/B&gt;{!Longitude}&lt;/FONT&gt;&lt;/DIV&gt;</fieldText>
+            <fieldType>DisplayText</fieldType>
+        </fields>
+        <showFooter>true</showFooter>
+        <showHeader>true</showHeader>
+    </screens>
+    <screens>
+        <name>WelcomeScreen</name>
+        <label>WelcomeScreen</label>
+        <locationX>291</locationX>
+        <locationY>153</locationY>
+        <allowBack>false</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>false</allowPause>
+        <connector>
+            <targetReference>Get_Current_Location_Of_User</targetReference>
+        </connector>
+        <fields>
+            <name>WelcomeText</name>
+            <fieldText>&lt;DIV ALIGN="LEFT"&gt;&lt;FONT FACE="Arial" STYLE="font-size:12px" COLOR="#000000" LETTERSPACING="0" KERNING="0"&gt;This Utiltity displays your current location .To proceed click Next button&lt;/FONT&gt;&lt;/DIV&gt;</fieldText>
+            <fieldType>DisplayText</fieldType>
+        </fields>
+        <showFooter>true</showFooter>
+        <showHeader>true</showHeader>
+    </screens>
+    <startElementReference>WelcomeScreen</startElementReference>
+    <variables>
+        <name>Latitude</name>
+        <dataType>String</dataType>
+        <isCollection>false</isCollection>
+        <isInput>false</isInput>
+        <isOutput>false</isOutput>
+    </variables>
+    <variables>
+        <name>Longitude</name>
+        <dataType>String</dataType>
+        <isCollection>false</isCollection>
+        <isInput>false</isInput>
+        <isOutput>false</isOutput>
+    </variables>
+</Flow>

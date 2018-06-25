@@ -1,0 +1,4 @@
+<design:component >
+        <design:attribute name="latitude" label="Latitude" />
+        <design:attribute name="longitude" label="Longitude" />
+</design:component>

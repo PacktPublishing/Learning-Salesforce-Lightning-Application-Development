@@ -1,0 +1,4 @@
+<aura:component implements="lightning:availableForFlowActions" access="global">
+    <aura:attribute name="latitude" type="String" access="global" />
+    <aura:attribute name="longitude" type="String" access="global" />
+</aura:component>	
