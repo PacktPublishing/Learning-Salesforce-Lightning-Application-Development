@@ -1,4 +1,4 @@
 <aura:component implements="flexipage:availableForAllPageTypes">
     <aura:handler name="init" value="{!this}" action="{!c.init}"/>
     <lightning:flow aura:id="myFlow" onstatuschange="{!c.handleStatusChange}" />
-</aura:component>	
+</aura:component>
