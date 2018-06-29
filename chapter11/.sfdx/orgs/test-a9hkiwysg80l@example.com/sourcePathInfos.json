@@ -34,10 +34,10 @@
         {
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default",
             "isDirectory": true,
-            "size": 192,
-            "modifiedTime": 1529600800488,
-            "changeTime": 1529600800488,
-            "contentHash": "2aa5498a1530bf9f349adafef061fd6b6b0733bb",
+            "size": 256,
+            "modifiedTime": 1529880772781,
+            "changeTime": 1529880772781,
+            "contentHash": "d9de3b372e65e51cc9e43a7658d68bf98a96bac4",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -47,10 +47,10 @@
         {
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 128,
-            "modifiedTime": 1529809996134,
-            "changeTime": 1529809996134,
-            "contentHash": "dbde253867c81fce13ef901275131d5def620197",
+            "size": 192,
+            "modifiedTime": 1529886607619,
+            "changeTime": 1529886607619,
+            "contentHash": "eaf89308b6b090b03fc092a25e99fb396fc4e031",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -59,15 +59,15 @@
     [
         "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11",
         {
+            "state": "u",
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11",
             "isDirectory": true,
-            "size": 288,
-            "modifiedTime": 1529728944133,
-            "changeTime": 1529728944133,
-            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": true
+            "size": 320,
+            "modifiedTime": 1529887672978,
+            "changeTime": 1529887672978,
+            "isWorkspace": true,
+            "contentHash": "07c9202b934d9b7de3b08c2ada99889084bb2bbc"
         }
     ],
     [
@@ -154,9 +154,9 @@
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flowDefinitions/Lead_Finder_App.flowDefinition-meta.xml",
             "isDirectory": false,
             "size": 171,
-            "modifiedTime": 1529730728051,
-            "changeTime": 1529730728051,
-            "contentHash": "767432ab9859c963a8546147415bdb8979cb362f",
+            "modifiedTime": 1529822306878,
+            "changeTime": 1529822306878,
+            "contentHash": "e089cf7341c7c7253bbdb14c2cc5379edde2923d",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -179,10 +179,10 @@
         {
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows",
             "isDirectory": true,
-            "size": 320,
-            "modifiedTime": 1529733296383,
-            "changeTime": 1529733296383,
-            "contentHash": "d23cf1a199fe50aa2dc1a34a491156d4b9b6efa0",
+            "size": 480,
+            "modifiedTime": 1529880772771,
+            "changeTime": 1529880772771,
+            "contentHash": "286b4b8e6dddd58ec6ec01515236cfa71f49318e",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -192,10 +192,10 @@
         {
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flowDefinitions",
             "isDirectory": true,
-            "size": 128,
-            "modifiedTime": 1529729419592,
-            "changeTime": 1529729419592,
-            "contentHash": "ed0dd312971f1d5057861b12a32dc0709be6f9bc",
+            "size": 192,
+            "modifiedTime": 1529880772777,
+            "changeTime": 1529880772777,
+            "contentHash": "5ee84b29899d7f519d2d3a45adabd68f9705d607",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -426,10 +426,10 @@
         {
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerify.cmp",
             "isDirectory": false,
-            "size": 351,
-            "modifiedTime": 1529810260511,
-            "changeTime": 1529810260511,
-            "contentHash": "9cf94b43d223c7f9aa45edb4f7ae76e0cd116306",
+            "size": 1885,
+            "modifiedTime": 1529869381511,
+            "changeTime": 1529869381511,
+            "contentHash": "3b8399849816650f04c76a38ec26482ec86ed8f1",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -491,10 +491,10 @@
         {
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerifyController.js",
             "isDirectory": false,
-            "size": 115,
-            "modifiedTime": 1529810308090,
-            "changeTime": 1529810308090,
-            "contentHash": "ae3327c68f853b91f86c2951266864c6149b68d7",
+            "size": 402,
+            "modifiedTime": 1529868828573,
+            "changeTime": 1529868828573,
+            "contentHash": "efa1cb99e517c7f4fd6853e5c78fd533b85267ff",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -502,14 +502,14 @@
     [
         "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerifyHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LeadVerify/LeadVerifyHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1323,
-            "modifiedTime": 1529815724650,
-            "changeTime": 1529815724650,
-            "contentHash": "3eed36a36663b14cdece6cfad05025b2a4ff30ee"
+            "modifiedTime": 1529817102446,
+            "changeTime": 1529817102446,
+            "contentHash": "d5814197f964e9bae1b7c2357e401cd72e6f7459",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -520,6 +520,409 @@
             "size": 50,
             "modifiedTime": 1529809996138,
             "changeTime": 1529809996138,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Validator_App-1.flow-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Validator_App-1.flow-meta.xml",
+            "isDirectory": false,
+            "size": 9984,
+            "modifiedTime": 1529819885723,
+            "changeTime": 1529819885723,
+            "contentHash": "6ae0c822e3224a49d15d61544bfaad1dc1793628",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Finder_App-7.flow-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Finder_App-7.flow-meta.xml",
+            "isDirectory": false,
+            "size": 10908,
+            "modifiedTime": 1529819885730,
+            "changeTime": 1529819885730,
+            "contentHash": "1b315aa3b72c7ad1be00ee250131a477da8ca827",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flowDefinitions/Lead_Validator_App.flowDefinition-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flowDefinitions/Lead_Validator_App.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "size": 105,
+            "modifiedTime": 1529819885736,
+            "changeTime": 1529819885736,
+            "contentHash": "4102f1024b304c644055ba24c336b5b198707318",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/cspTrustedSites/MailboxAPI.cspTrustedSite-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/cspTrustedSites/MailboxAPI.cspTrustedSite-meta.xml",
+            "isDirectory": false,
+            "size": 203,
+            "modifiedTime": 1529819885738,
+            "changeTime": 1529819885738,
+            "contentHash": "41c46bd11e986e5e79d91397b3bef5ca47271eea",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/cspTrustedSites",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/cspTrustedSites",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1529819885737,
+            "changeTime": 1529819885737,
+            "contentHash": "8dc5f259a6a0a61932b5f6c891882ca651917b1f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Finder_App-8.flow-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Finder_App-8.flow-meta.xml",
+            "isDirectory": false,
+            "size": 10908,
+            "modifiedTime": 1529822306860,
+            "changeTime": 1529822306860,
+            "contentHash": "1b315aa3b72c7ad1be00ee250131a477da8ca827",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Finder_App-9.flow-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/Lead_Finder_App-9.flow-meta.xml",
+            "isDirectory": false,
+            "size": 10909,
+            "modifiedTime": 1529822306875,
+            "changeTime": 1529822306875,
+            "contentHash": "a946682fe37c7b0b7d4428335e500d1bf6776153",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1529879493731,
+            "changeTime": 1529879493731,
+            "contentHash": "91328db550638484272459e201b207769a0926fe",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder/LocationFinder.auradoc",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder/LocationFinder.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1529879493730,
+            "changeTime": 1529879493730,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder/LocationFinder.cmp",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder/LocationFinder.cmp",
+            "isDirectory": false,
+            "size": 238,
+            "modifiedTime": 1529880096422,
+            "changeTime": 1529880096422,
+            "contentHash": "298716140e9426f24da8ec9087babbe76d29f108",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder/LocationFinder.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder/LocationFinder.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1529879493720,
+            "changeTime": 1529879493720,
+            "contentHash": "0728f60e3bb6f3e5d500f0e54dd743f90e43f480",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder/LocationFinder.css",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder/LocationFinder.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1529879493726,
+            "changeTime": 1529879493726,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder/LocationFinder.design",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder/LocationFinder.design",
+            "isDirectory": false,
+            "size": 165,
+            "modifiedTime": 1529879614250,
+            "changeTime": 1529879614250,
+            "contentHash": "bfe04cb5910aee46887e3cb8136db246552bfd81",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder/LocationFinder.svg",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder/LocationFinder.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1529879493728,
+            "changeTime": 1529879493728,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder/LocationFinderController.js",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder/LocationFinderController.js",
+            "isDirectory": false,
+            "size": 795,
+            "modifiedTime": 1529881464649,
+            "changeTime": 1529881464649,
+            "contentHash": "a2d2ad0faae70f9148dbe214cec001eb440fbc84",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder/LocationFinderHelper.js",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder/LocationFinderHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1529879493724,
+            "changeTime": 1529879493724,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder/LocationFinderRenderer.js",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/LocationFinder/LocationFinderRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1529879493727,
+            "changeTime": 1529879493727,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/LocationFinder-1.flow-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flows/LocationFinder-1.flow-meta.xml",
+            "isDirectory": false,
+            "size": 3686,
+            "modifiedTime": 1529880772771,
+            "changeTime": 1529880772771,
+            "contentHash": "50b61702121b71ae2e0867c75b21e5389f4b353d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flowDefinitions/LocationFinder.flowDefinition-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/flowDefinitions/LocationFinder.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "size": 171,
+            "modifiedTime": 1529880772777,
+            "changeTime": 1529880772777,
+            "contentHash": "84016bd12773aae2340e6057aede8139cb16f930",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/settings/Security.settings-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/settings/Security.settings-meta.xml",
+            "isDirectory": false,
+            "size": 2515,
+            "modifiedTime": 1529880772784,
+            "changeTime": 1529880772784,
+            "contentHash": "a39c5ffdb3c855e2da94059adea8288f484f1db3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/settings",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/settings",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1529880772784,
+            "changeTime": 1529880772784,
+            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1529886607631,
+            "changeTime": 1529886607631,
+            "contentHash": "5ab88346df6009e5b71b2541b2d51b98fb9c4240",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation/MapCurrentLocation.auradoc",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation/MapCurrentLocation.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1529886607630,
+            "changeTime": 1529886607630,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation/MapCurrentLocation.cmp",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation/MapCurrentLocation.cmp",
+            "isDirectory": false,
+            "size": 232,
+            "modifiedTime": 1529887887822,
+            "changeTime": 1529887211260,
+            "contentHash": "f59fed772814b33bdfa678971e432d0b3978c970",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation/MapCurrentLocation.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation/MapCurrentLocation.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 250,
+            "modifiedTime": 1529886607625,
+            "changeTime": 1529886607625,
+            "contentHash": "83f19ff900e45a7eddac30f81de3af3eb908a493",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation/MapCurrentLocation.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation/MapCurrentLocation.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 38,
+            "modifiedTime": 1529887883628,
+            "changeTime": 1529887883628,
+            "contentHash": "3b7b9657aeb8e58ca29b63abc955c9530c0b8bce"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation/MapCurrentLocation.design",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation/MapCurrentLocation.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1529886607631,
+            "changeTime": 1529886607631,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation/MapCurrentLocation.svg",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation/MapCurrentLocation.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1529886607630,
+            "changeTime": 1529886607630,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation/MapCurrentLocationController.js",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation/MapCurrentLocationController.js",
+            "isDirectory": false,
+            "size": 1230,
+            "modifiedTime": 1529887602210,
+            "changeTime": 1529887602210,
+            "contentHash": "9ee8b2205b115053ad3760d387cfb2be1eceb1f3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation/MapCurrentLocationHelper.js",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation/MapCurrentLocationHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1529886607627,
+            "changeTime": 1529886607627,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation/MapCurrentLocationRenderer.js",
+        {
+            "sourcePath": "/Users/mohith/Desktop/ForceProjects/Learning-Salesforce-Lightning-Application-Development/chapter11/force-app/main/default/aura/MapCurrentLocation/MapCurrentLocationRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1529886607629,
+            "changeTime": 1529886607629,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
             "state": "u"
