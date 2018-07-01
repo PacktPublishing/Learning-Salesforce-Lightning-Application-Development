@@ -1,37 +1,44 @@
-<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes" access="global" controller="YoutubeSearch">
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,force:lightningQuickAction,forceCommunity:availableForAllPageTypes" access="global" controller="YoutubeSearch">
    <aura:attribute name="searchTerm" type="String" />
    <!--ATTRIBUTES DECLARATION -->
    <aura:attribute name="data" type="Map"/>
+
    <div class="c-container">
-      <lightning:layout multipleRows="true" horizontalAlign="center" verticalAlign="center">
-         <lightning:layoutItem flexibility="auto" size="6">
-            <div class="slds-form-element">
-               <label class="slds-form-element__label" for="text-input-id-1">Enter search term</label>
-               <div class="slds-form-element__control">
-                  <input type="search" id="text-input-id-1" class="slds-input" placeholder="Enter Search Term" aura:id="searchBox"/>
-               </div>
-            </div>
-         </lightning:layoutItem>
-         <lightning:layoutItem flexibility="auto" size="4" padding="horizontal-small">
-            <lightning:button variant="brand" label="Search" title="" onclick="{! c.handleClick }" class="c-btn"/>
-         </lightning:layoutItem>
-         <lightning:layoutItem flexibility="auto" padding="around-large" size="6">
+
+       <div class="slds-grid_align-center slds-m-top_medium">
+                <div class="slds-grid_align-center">
+                    <label class="slds-form-element__label" for="text-input-id-1">
+                        Enter search term
+                    </label>
+                </div>
+                <div class="grid slds-grid_align-center">
+                    <div class="slds-col">
+                        <input type="search" id="text-input-id-1" class="slds-input" placeholder="Enter Search Term" aura:id="searchBox" style="width:50%;"/>
+                        <button class="slds-button slds-button_brand" style="margin-bottom: 8px;margin-left: 10px;" onclick="{! c.handleClick }">Search</button>
+                    </div>
+                </div>
+        </div>
+
+        <div class="slds_grid slds-grid_align-center slds-m-top_medium">
             <p> You searched for {!v.searchTerm} </p>
-         </lightning:layoutItem>
-         <lightning:layoutItem flexibility="auto" padding="horizontal-small" size="8">
-            <aura:iteration items="{!v.data.items}" var="cardItem">
-               <lightning:card title="{#cardItem.snippet.title}">
-                  <p class="slds-p-horizontal_small">
-                     {#cardItem.snippet.description}
-                  </p>
-                  <div class="slds-media__figure">
-                     <a href="{#'https://www.youtube.com/watch?v='+cardItem.id.videoId}" target="_blank">
-                     <img src="{#cardItem.snippet.thumbnails.high.url}" style="height:100px;" alt="Placeholder" />
-                     </a>
-                  </div>
-               </lightning:card>
-            </aura:iteration>
-         </lightning:layoutItem>
-      </lightning:layout>
+        </div>
+
+        <div class="slds_grid slds-grid_align-center slds-m-top_medium">
+                <aura:iteration items="{!v.data.items}" var="cardItem">
+                    <div class="slds-col  slds-size_8-of-12 slds-m-top_small">
+                        <lightning:card title="{#cardItem.snippet.title}">
+                            <p class="slds-p-horizontal_small">
+                                {#cardItem.snippet.description}
+                            </p>
+                            <div class="slds-media__figure">
+                                <a href="{#'https://www.youtube.com/watch?v='+cardItem.id.videoId}" target="_blank">
+                                    <img src="{#cardItem.snippet.thumbnails.high.url}" style="height:100px;" alt="Placeholder" />
+                                </a>
+                            </div>
+                        </lightning:card>
+                    </div>
+                </aura:iteration>
+        </div>
+
    </div>
 </aura:component>	

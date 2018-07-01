@@ -1,0 +1,23 @@
+.THIS {
+    position: relative;
+    z-index: 1;
+}
+
+.THIS .header {
+   height : 100px;
+   max-height: 100px;
+}
+
+.THIS .footer {
+    height : 100px;
+    max-height: 100px;
+ }
+
+ .THIS .navBar {
+    background-color: white;
+ }
+
+ .THIS .forceCommunityGlobalNavigation {
+    background-color: white;
+    color: black;
+}

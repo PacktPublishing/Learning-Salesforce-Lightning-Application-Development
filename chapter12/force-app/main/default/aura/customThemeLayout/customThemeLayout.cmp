@@ -1,0 +1,30 @@
+<aura:component implements="forceCommunity:themeLayout">
+    <aura:attribute name="logo" type="Aura.Component[]"/>
+    <aura:attribute name="navBar" type="Aura.Component[]"/>
+
+    <div>
+        <div class="slds-text-heading_large slds-align_absolute-center slds-m-top_large"> 
+            Youtube Search Application 
+        </div>
+        <div class="slds-text-heading_Medium slds-align_absolute-center slds-m-top_large"> 
+            This app allows to Search Youtube Vides Right From Community
+        </div>
+    </div>
+
+    <div class="slds-grid slds-gutters slds-align_absolute-center slds-m-top_large">
+        <div class="slds-col slds-size_6-of-12">
+          {!v.logo}
+        </div>
+        <div class="slds-col slds-size_6-of-12 navBar">
+            {!v.navBar}
+        </div>
+     </div>
+
+     <div>
+        {!v.body}
+     </div>
+
+    <div class="slds-grid footer slds-align_absolute-center slds-m-top_x-large">
+        @Built Using Community Cloud and Custom Theme
+    </div>
+</aura:component>	
