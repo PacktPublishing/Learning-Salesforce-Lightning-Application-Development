@@ -1,0 +1,42 @@
+<aura:component implements="flexipage:availableForAllPageTypes">
+
+    <aura:attribute name="accountId" type="String"/>
+
+    <lightning:navigation aura:id="navService"/>
+
+    <div>
+
+        <div class="slds-m-around_medium slds-box">
+            LIGHTNING NAVIGATION COMPONENT DEMO
+        </div>
+
+
+        <div class="slds-m-around_medium slds-box">
+            <lightning:button variant="brand" label="Navigate to Account Home" title="Go to Account Home" onclick="{! c.navigateToAccountHome }" />
+        </div>
+
+        <div class="slds-m-around_medium slds-box">
+            <lightning:button variant="brand" label="Navigate to Demo Component" title="Navigate to Demo Component" onclick="{! c.navigateToDemoComponet }" />
+        </div>
+
+        <div class="slds-m-around_medium slds-box">
+            <div>
+                <lightning:input name="recordId" label="Enter AccountId Here" value="{!v.accountId}"/>
+            </div>
+            <div class="slds-m-top_small">
+                <lightning:button variant="brand" label="Navigate To Record Detail" title="Navigate To Record Detail" value="{!v.accountId}" onclick="{! c.navigateToRecordDetail }" />
+            </div>
+        </div>
+
+        <div class="slds-m-around_medium slds-box">
+            <div>
+                <lightning:input name="relatedId" label="Enter CaseId Linked To RecordId Here" value="{!v.accountId}"/>
+            </div>
+            <div class="slds-m-top_small">
+                <lightning:button variant="brand" label="Navigate To Related Detail" title="Navigate To Related Detail" onclick="{! c.navigateToRecordRelated }" />
+            </div>
+        </div>
+
+   </div>
+
+</aura:component>	

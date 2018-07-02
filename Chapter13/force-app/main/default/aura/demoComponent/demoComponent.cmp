@@ -1,0 +1,15 @@
+<aura:component implements="flexipage:availableForAllPageTypes,lightning:isUrlAddressable">
+   
+    <aura:attribute name="simpleMsg" type="String"/>
+
+    <aura:handler name="init" value="{!this}" action="{!c.init}" />
+
+    <div class="slds-m-around_medium slds-box">
+        DEMO COMPONENT
+    </div>
+
+    <div class="slds-m-around_medium slds-box">
+            CONTENT FROM MAIN PAGE {!v.simpleMsg}
+        </div>
+
+</aura:component>	
