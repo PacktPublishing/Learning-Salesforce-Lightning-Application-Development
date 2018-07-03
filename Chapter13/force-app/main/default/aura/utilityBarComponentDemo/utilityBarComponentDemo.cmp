@@ -1,0 +1,25 @@
+<aura:component implements="flexipage:availableForAllPageTypes">
+
+    <lightning:utilityBarAPI aura:id="utilitybar" />
+    
+    <div class="slds-m-around_medium">
+        <lightning:button label="Get All Utility Info" onclick="{! c.getAllUtilityInfo }" />
+    </div>
+
+    <div class="slds-m-around_medium">
+        <lightning:button label="Get Enclosing Utility ID" onclick="{! c.getEnclosingUtilityId }" />
+    </div>
+
+    <div class="slds-m-around_medium">
+        <lightning:button label="Open Utility" onclick="{! c.openUtility }" />
+    </div>
+
+    <div class="slds-m-around_medium">
+        <lightning:button label="Set Utility Highlighted" onclick="{! c.setUtilityHighlighted}" />
+    </div>
+
+    <div class="slds-m-around_medium">
+        <lightning:button label="Toggle Modal Mode" onclick="{! c.toggleModalMode }" />
+    </div>
+
+</aura:component>	

@@ -1,0 +1,17 @@
+<aura:component implements="force:hasRecordId,flexipage:availableForAllPageTypes" controller="AccountController">
+
+    <aura:handler name="change" value="{!v.recordId}" action="{!c.onRecordIdChange}"/>
+
+    <aura:attribute name="currentFocusedTabId" type="String" />
+    
+    <lightning:workspaceAPI aura:id="workspace"/>
+
+    <div class="slds-m-around_medium">
+        <lightning:button label="Open Contacts As Tabs" onclick="{! c.openContacts }" />
+    </div>
+    
+    <div class="slds-m-around_medium">
+        <lightning:button label="Open Cases As SubTabs" onclick="{! c.openCases }" />
+    </div>
+
+</aura:component>	
