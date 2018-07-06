@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<!-- example HTML with lightning out-->
+<html>
+<body>
+    <h1>Lightning Out Youtube Search Component Demo</h1>
+    <script src="https://sandbox-testcomm-developer-edition.cs92.force.com/lightning/lightning.out.js"></script>
+    <!--<script src="app.bundle.js/app.bundle.js"></script>-->
+    <div id="youtubeApp" />
+</body>
+<script >
+     $Lightning.use("c:youtubesearchOutApp", function() {
+        $Lightning.createComponent("c:youtubesearch", {},
+           "youtubeApp",
+            function(cmp) {
+               // do some stuff
+            });
+    },"https://sandbox-testcomm-developer-edition.cs92.force.com"/*token */);
+</script>
+</html>
+
