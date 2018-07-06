@@ -75,7 +75,7 @@ Once authenticated to push the source code to the Devorg run the below command.
 The below converts the source to the Metadata API format from DX source format
 
 ```console
-$ sfdx force:source:convert  -d mdapi_output_dir -n 'SpringCM Document Generation'
+$ sfdx force:source:convert  -d mdapi_output_dir
 ```
 
 Deploy the code to the Devorg
