@@ -114,7 +114,6 @@ describe("YoutubeSearchAppTest", function(){
                             var cb = action.getCallback("SUCCESS");
                             cb.fn.apply(cb.s, [mockResponse]);
                         });
-                        console.log(component);
                         component.search();
                         expect(component.get("v.data").items.length).toBe(2);
                         done();

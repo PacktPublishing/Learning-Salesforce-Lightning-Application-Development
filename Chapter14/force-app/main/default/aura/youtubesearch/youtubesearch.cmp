@@ -14,7 +14,7 @@
             </div>
          </lightning:layoutItem>
          <lightning:layoutItem flexibility="auto" size="4" padding="horizontal-small">
-            <lightning:button variant="brand" label="Search" title="" onclick="{! c.handleClick }" class="c-btn"/>
+            <lightning:button variant="brand" aura:id="button" label="Search" title="" onclick="{! c.handleClick }" class="c-btn"/>
          </lightning:layoutItem>
          <lightning:layoutItem flexibility="auto" padding="around-large" size="6">
             <p aura:id="searchTermRendered"> You searched for {!v.searchTerm} </p>
