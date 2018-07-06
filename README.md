@@ -44,6 +44,7 @@ $ sfdx force:config:set defaultdevhubusername=DevHub -g
 
     ## open scratch org
     sfdx force:org:open
+```
 
 
 ### Push source from local folder to the scratch org
