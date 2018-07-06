@@ -86,7 +86,7 @@ $ sfdx force:mdapi:deploy --deploydir mdapi_output_dir -u Devorg -w 3 --testleve
 
 ### Deleting a scratch org
 
-Your scratch can be available for 30 days and there is no need for them to delete .However if you have too many scratch orgs and running out of limits you can delete it using the below command . You will need username or the alias . The alias is your branch name that you used when you ran npm run dev
+Your scratch can be available for 30 days and there is no need for them to delete .However if you have too many scratch orgs and running out of limits you can delete it using the below command . You will need username or the alias .
 
 ```console
 $ sfdx force:org:delete -u <username/alias>
