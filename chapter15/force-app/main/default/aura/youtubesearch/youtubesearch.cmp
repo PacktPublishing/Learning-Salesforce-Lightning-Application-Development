@@ -1,0 +1,38 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes" access="global" controller="YoutubeSearch">
+   <aura:attribute name="searchTerm" type="String" />
+   <!--ATTRIBUTES DECLARATION -->
+   <aura:attribute name="data" type="Map"/>
+   <aura:method name="search" action="{!c.handleClick}"/>
+   <div class="c-container">
+      <lightning:layout multipleRows="true" horizontalAlign="center" verticalAlign="center">
+         <lightning:layoutItem flexibility="auto" size="6">
+            <div class="slds-form-element">
+               <label class="slds-form-element__label" for="text-input-id-1">Enter search term</label>
+               <div class="slds-form-element__control">
+                  <input type="search" id="text-input-id-1" class="slds-input" placeholder="Enter Search Term" aura:id="searchBox"/>
+               </div>
+            </div>
+         </lightning:layoutItem>
+         <lightning:layoutItem flexibility="auto" size="4" padding="horizontal-small">
+            <lightning:button variant="brand" aura:id="button" label="Search" title="" onclick="{! c.handleClick }" class="c-btn"/>
+         </lightning:layoutItem>
+         <lightning:layoutItem flexibility="auto" padding="around-large" size="6">
+            <p aura:id="searchTermRendered"> You searched for {!v.searchTerm} </p>
+         </lightning:layoutItem>
+         <lightning:layoutItem flexibility="auto" padding="horizontal-small" size="8">
+            <aura:iteration items="{!v.data.items}" var="cardItem">
+               <lightning:card title="{#cardItem.snippet.title}">
+                  <p class="slds-p-horizontal_small">
+                     {#cardItem.snippet.description}
+                  </p>
+                  <div class="slds-media__figure">
+                     <a href="{#'https://www.youtube.com/watch?v='+cardItem.id.videoId}" target="_blank">
+                     <img src="{#cardItem.snippet.thumbnails.high.url}" style="height:100px;" alt="Placeholder" />
+                     </a>
+                  </div>
+               </lightning:card>
+            </aura:iteration>
+         </lightning:layoutItem>
+      </lightning:layout>
+   </div>
+</aura:component>	
