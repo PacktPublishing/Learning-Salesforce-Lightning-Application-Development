@@ -1,3 +1,5 @@
-<design:component >
-
+<design:component label="Youtube Search">
+    <design:attribute name="searchBoxLabel" label="Search Box Label" description="The Label of the Search Box" default="Enter Search Term"/>
+    <design:attribute name="searchBoxPlaceHolder" label="Search Box Place Holder" description="The Placeholder of the Search Box" default="Enter Search Term"/>
+    <design:attribute name="resultMessage"  label="Text Message For Results" default="You searched for" description="Text Label for the Search Term "/>
 </design:component>
