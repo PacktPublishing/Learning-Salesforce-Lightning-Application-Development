@@ -1,11 +1,11 @@
-<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes" access="global" controller="YoutubeSearch" description="This searches youtube with search string">
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes" access="global" controller="Youtubesearch" description="This searches youtube with search string">
    <aura:attribute name="searchTerm" type="String" />
    <!--ATTRIBUTES DECLARATION -->
    <aura:attribute name="data" type="Map"/>
    
-   <aura:attribute name="searchBoxLabel" type="String" default="Enter Search Term"/>
-   <aura:attribute name="searchBoxPlaceHolder" type="String" default="Enter Search Term"/>
-   <aura:attribute name="resultMessage" type="String" default="You searched for" />
+   <aura:attribute name="searchBoxLabel" type="String" default="Enter Search Term" access="global"/>
+   <aura:attribute name="searchBoxPlaceHolder" type="String" default="Enter Search Term" access="global"/>
+   <aura:attribute name="resultMessage" type="String" default="You searched for" access="global"/>
 
    <aura:method name="search" action="{!c.handleClick}"/>
    <div class="c-container">
@@ -40,4 +40,4 @@
          </lightning:layoutItem>
       </lightning:layout>
    </div>
-</aura:component>	
+</aura:component>

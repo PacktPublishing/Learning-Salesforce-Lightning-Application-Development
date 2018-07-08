@@ -1,11 +1,8 @@
-<aura:documentation>
+<aura:documentation Experience="Lightning Experience">
 	<aura:description>
 		<p>An <code>SearchApp:youtubesearch</code> component provides a component with a search box to search across youtube</p>
 	</aura:description>
 	<aura:example name="youtubesearchExample" ref="SearchApp:youtubesearchExample" label="youtubesearch">
-		<p>
-			This example shows how to use the component in your custom code 
-			<code><SearchApp:youtubesearch/></code>
-		</p>
+		<p>This example shows how to use the component SearchApp:youtubesearch in your custom component code</p>
 	</aura:example>
 </aura:documentation>

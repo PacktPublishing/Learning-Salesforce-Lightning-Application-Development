@@ -1,0 +1,15 @@
+# Salesforce DX
+.sfdx
+*.dup
+
+# Salesforce Metadata
+src
+
+# Visual Studio Code
+.vscode
+
+# Any JetBrains IDE
+.idea
+
+# IlluminatedCloud
+IlluminatedCloud

@@ -4,11 +4,14 @@
     <name>AuraDefinitionBundle</name>
     <members>youtubeSearchApp</members>
     <members>youtubesearch</members>
+    <members>youtubesearchExample</members>
   </types>
   <types>
     <name>ApexClass</name>
+    <members>MockHttpResponseGenerator</members>
     <members>YoutubeDataParser</members>
     <members>Youtubesearch</members>
+    <members>YoutubesearchTest</members>
   </types>
   <types>
     <name>RemoteSiteSetting</name>
