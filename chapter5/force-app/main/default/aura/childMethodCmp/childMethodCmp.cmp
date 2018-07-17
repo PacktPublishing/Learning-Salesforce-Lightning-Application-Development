@@ -1,5 +1,7 @@
-<aura:method name="sampleMethod" action="{!c.doAction}" 
-  description="Sample method with parameters"> 
-    <aura:attribute name="param1" type="String" default="parameter 1"/> 
-    <aura:attribute name="param2" type="Object" /> 
-</aura:method>
+<aura:component>
+  <aura:method name="sampleMethod" action="{!c.doAction}" 
+    description="Sample method with parameters"> 
+      <aura:attribute name="param1" type="String" default="parameter 1"/> 
+      <aura:attribute name="param2" type="Object" /> 
+  </aura:method>
+</aura:component>
