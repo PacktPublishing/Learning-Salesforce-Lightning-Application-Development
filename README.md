@@ -35,8 +35,8 @@ $ sfdx force:config:set defaultdevhubusername=DevHub -g
 ### Create a scratch ORG 
 
 ```console
-    ## create a scratch org for this branch . Total of 30 days for the scratch org created
-    $ sfdx force:org:create -s -f config/project-scratch-def.json -d 30 -a scratch_org;
+## create a scratch org for this branch . Total of 30 days for the scratch org created
+$ sfdx force:org:create -s -f config/project-scratch-def.json -d 30 -a scratch_org;
 ```
 
 
