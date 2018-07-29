@@ -37,14 +37,22 @@ $ sfdx force:config:set defaultdevhubusername=DevHub -g
 ```console
     ## create a scratch org for this branch . Total of 30 days for the scratch org created
     $ sfdx force:org:create -s -f config/project-scratch-def.json -d 30 -a scratch_org;
+```
 
-    ## set as default scratch org
+
+## set as default scratch org
+```console
     $ sfdx force:config:set defaultusername=scratch_org;
+```
 
-    ## push local code artifacts to scratch org
+## push local code artifacts to scratch org
+```console
+    
     $ sfdx force:source:push;
-
-    ## open scratch org
+```
+## open scratch org
+```console
+    
     $ sfdx force:org:open
 ```
 
@@ -93,6 +101,13 @@ Your scratch can be available for 30 days and there is no need for them to delet
 ```console
 $ sfdx force:org:delete -u <username/alias>
 ```
+
+### Open Current Directory in VSCode Editor
+
+```console
+$ code .
+```
+
 
 ## Resources
 
