@@ -3,6 +3,7 @@
     "edition": "Developer",
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"],
-        "features": ["DebugApex"]
-    }
+        "disabled": ["S1EncryptedStoragePref2"],
+    },
+    "features": ["DebugApex"]
 }

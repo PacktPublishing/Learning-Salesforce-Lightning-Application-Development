@@ -2,7 +2,8 @@
     "orgName": "mohith Company",
     "edition": "Developer",
     "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled","NetworksEnabled"]
+        "enabled": ["S1DesktopEnabled","NetworksEnabled"],
+        "disabled": ["S1EncryptedStoragePref2"]
     },
     "features": ["Communities","SiteDotCom","Sites"]
 }
