@@ -1,4 +1,4 @@
-# Learning-Salesforce-Lightning-Application-Development
+# Learning Salesforce Lightning Application Development
 
 ![b05909_mockupcovernew](https://user-images.githubusercontent.com/2276156/43361728-b3dfd95c-92a5-11e8-955d-94910efb9348.png)
 
