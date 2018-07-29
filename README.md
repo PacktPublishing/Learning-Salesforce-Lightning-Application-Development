@@ -14,11 +14,11 @@ Install SFDX Plugin from salesforce on VisualStudio Code(https://marketplace.vis
 
 ## Dev, Build and Test
 
-### Autheticate to Devhub
-
 Clone the current repository from git and CD into the project root
 
-Example to push all code from chapter 1 to scratch org start by changing directory using ```console cd chapter1``` and then following below commands
+Example to push all code from chapter 1 to scratch org start by changing directory using ```cd chapter1``` and then following below commands
+
+### Autheticate to Devhub
 
 Authenticate to the DevHub using the below command  
 
