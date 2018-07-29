@@ -36,30 +36,30 @@ $ sfdx force:config:set defaultdevhubusername=DevHub -g
 
 ```console
 ## create a scratch org for this branch . Total of 30 days for the scratch org created
-$ sfdx force:org:create -s -f config/project-scratch-def.json -d 30 -a scratch_org;
+$ sfdx force:org:create -s -f config/project-scratch-def.json -d 30 -a scratch_org
 ```
 
 
 ### Set default scratch org
 ```console
-$ sfdx force:config:set defaultusername=scratch_org;
+$ sfdx force:config:set defaultusername=scratch_org
 ```
 
 ### Push local code artifacts to scratch org
 ```console 
-$ sfdx force:source:push;
+$ sfdx force:source:push
 ```
 ### Open scratch org
 ```console
 $ sfdx force:org:open
 ```
 
-### Push source from local folder to the scratch org
+### Push source from local folder to the scratch org if local file changes
 
 ```console
 $ sfdx force:source:push
 ```
-### Pull source from scratch org to the local folder
+### Pull source from scratch org to the local folder if you make any code and config changes in scratch org
 
 If you are doing any dev in scratch org including config and set up you can pull in your local src folder using below
 
