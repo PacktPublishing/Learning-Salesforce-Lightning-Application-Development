@@ -40,20 +40,19 @@ $ sfdx force:org:create -s -f config/project-scratch-def.json -d 30 -a scratch_o
 ```
 
 
-#### set as default scratch org
+### Set default scratch org
 ```console
 $ sfdx force:config:set defaultusername=scratch_org;
 ```
 
-### push local code artifacts to scratch org
+### Push local code artifacts to scratch org
 ```console 
 $ sfdx force:source:push;
 ```
-### open scratch org
+### Open scratch org
 ```console
 $ sfdx force:org:open
 ```
-
 
 ### Push source from local folder to the scratch org
 
