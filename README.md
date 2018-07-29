@@ -40,20 +40,18 @@ $ sfdx force:config:set defaultdevhubusername=DevHub -g
 ```
 
 
-## set as default scratch org
+#### set as default scratch org
 ```console
-    $ sfdx force:config:set defaultusername=scratch_org;
+$ sfdx force:config:set defaultusername=scratch_org;
 ```
 
-## push local code artifacts to scratch org
-```console
-    
-    $ sfdx force:source:push;
+### push local code artifacts to scratch org
+```console 
+$ sfdx force:source:push;
 ```
-## open scratch org
+### open scratch org
 ```console
-    
-    $ sfdx force:org:open
+$ sfdx force:org:open
 ```
 
 
