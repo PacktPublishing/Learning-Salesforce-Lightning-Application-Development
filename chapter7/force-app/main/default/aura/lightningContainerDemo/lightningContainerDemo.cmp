@@ -1,6 +1,12 @@
 <aura:component access="global" implements="flexipage:availableForAllPageTypes">
-        <div class="slds-align_absolute-center">
+        <div>
             Create Account App
-        </div>
-        <lightning:container aura:id="jsApp" src="{!$Resource.reactApp + '/index.html'}" onerror="{!c.handleError}" onmessage="{!c.handleMessage}"/>   
+            <div class="container">
+                 <lightning:container 
+                            aura:id="jsApp" 
+                            src="{!$Resource.reactApp + '/index.html'}" 
+                            onerror="{!c.handleError}" 
+                            onmessage="{!c.handleMessage}"/>
+            </div>
+        </div>   
 </aura:component>	

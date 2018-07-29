@@ -1,2 +1,6 @@
-.THIS {
+.THIS .container {
+    height: 300px;
+    font-size: 1rem;
+    font-family: 'Arial, Helvetica, sans-serif';
+    background-color: Lavender;
 }
