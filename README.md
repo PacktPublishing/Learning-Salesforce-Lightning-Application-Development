@@ -32,7 +32,7 @@ Set your Devhub as default Dev hub globally .You will need to knpw your Devhub U
 $ sfdx force:config:set defaultdevhubusername=DevHub -g
 ```
 
-### Create a scratch ORG 
+### Create a scratch org
 
 ```console
 ## create a scratch org for this branch . Total of 30 days for the scratch org created
@@ -67,7 +67,7 @@ If you are doing any dev in scratch org including config and set up you can pull
 $ sfdx force:source:pull
 ```
 
-### Convert SFDX format to metadata for Deployment To Dev orgs
+### Convert SFDX format to metadata for Deployment To Dev orgs(Non Scratch orgs)
 
 For this one will have to first authenticate to the Dev org where the Source Code will be deployed
 
