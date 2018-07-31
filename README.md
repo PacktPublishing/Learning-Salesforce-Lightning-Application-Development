@@ -184,24 +184,23 @@ With the following  software and hardware list you can runt all the code file pr
 | 5        | Same as above                       | Same as above       |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/Unity2018ShadersandEffectsCookbookThirdEdition_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/LearningSalesforceLightningApplicationDevelopment_ColorImages.pdf).
 
 ### Related products
-* Getting Started with Unity 2018 - Third Edition [[Packt]](https://www.packtpub.com/game-development/getting-started-unity-2018-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788830102) [[Amazon]](https://www.amazon.com/dp/1788830105)
+* Learning Salesforce Einstein [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/learning-salesforce-einstein?utm_source=github&utm_medium=repository&utm_campaign=9781787126893) [[Amazon]](https://www.amazon.com/dp/1787126897)
 
-* Unity Virtual Reality Projects - Second Edition [[Packt]](https://www.packtpub.com/game-development/unity-virtual-reality-projects-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788478809) [[Amazon]](https://www.amazon.com/dp/1788478800)
+* Salesforce Lightning Reporting and Dashboards [[Packt]](https://www.packtpub.com/application-development/salesforce-lightning-reporting-and-dashboards?utm_source=github&utm_medium=repository&utm_campaign=9781788297387) [[Amazon]](https://www.amazon.com/dp/1788297385)
 
-## Get to Know the Authors
-**John P. Doran** is a passionate and seasoned technical game designer, software engineer, and author who is based in Redmond, Washington.
-For over a decade, John has built games in roles ranging from game designer to lead UI programmer. Additionally, John has taught game development in Singapore, South Korea, and the United States. To date, he has authored over 10 books pertaining to game development.
 
-**Alan Zucconi** is a passionate developer, author, and lecturer, recognized as one of Develop's 30 under 30. His expertise has been built over the past 10 years, working in the intersection between creativity and education. Starting in 2015, he published a series of educational tutorials for other developers and machine learning enthusiasts
+## Get to Know the Author
+**Mohith Shrivastava** has been building and architecting Salesforce applications since 2011, when he graduated from the National Institute of Engineering, Mysore.
+He is currently a Salesforce MVP and holds multiple Salesforce certifications. He is an active contributor on Salesforce Stack Exchange Community. Mohith has authored Learning Salesforce Einstein and Salesforce Essentials for Administrators for Packt publishing. In his leisure time, he loves exploring the latest technologies and spending time with his family.
+
 
 
 ## Other books by the authors
-* [Unity 2017 Mobile Game Development](https://www.packtpub.com/game-development/unity-2017-mobile-game-development?utm_source=github&utm_medium=repository&utm_campaign=9781787288713)
-* [Unreal Engine: Game Development from A to Z](https://www.packtpub.com/game-development/unreal-engine-game-development-z?utm_source=github&utm_medium=repository&utm_campaign=9781787123281)
-* [Unity 5.x Shaders and Effects Cookbook](https://www.packtpub.com/game-development/unity-5x-shaders-and-effects-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781785285240)
+* [Salesforce Essentials for Administrators](https://www.packtpub.com/big-data-and-business-intelligence/salesforce-essentials-administrators?utm_source=github&utm_medium=repository&utm_campaign=9781784398071)
+
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
