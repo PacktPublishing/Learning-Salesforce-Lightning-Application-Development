@@ -175,7 +175,7 @@ With the following  software and hardware list you can runt all the code file pr
 
 ### Software and Hardware List
 
-| Chapter  | Software required                   | OS required                        |              
+| Chapter  | Software required                   | OS required                        |        |         
 | -------- | ------------------------------------| -----------------------------------|-----------------------------------|
 | 1     | SFDX CLI downloaded from https://developer.salesforce.com/tools/sfdxcli | macOS/Windows/Linux                   |  
 | 2     | VisualStudio Code Editor download from https://code.visualstudio.com/   | macOS/Windows/Linux                   |             | 3     | SalesforceDX Plugin for VS Code https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode |       macOS/Windows/Linux |                                                                                                                   
