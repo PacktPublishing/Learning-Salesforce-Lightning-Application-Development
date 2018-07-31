@@ -125,7 +125,7 @@ This is because your user in the DevHub org does not have the DevHub Permission 
 
 # Learning Salesforce Lightning Application Development
 
-<a href="https://www.packtpub.com/application-development/learning-salesforce-lightning-application-development?utm_source=github&utm_medium=repository&utm_campaign=9781787124677"><img src="https://www.packtpub.com/application-development/learning-salesforce-lightning-application-development?utm_source=github&utm_medium=repository&utm_campaign=9781787124677" alt="Learning Salesforce Lightning Application Development
+<a href="https://www.packtpub.com/application-development/learning-salesforce-lightning-application-development?utm_source=github&utm_medium=repository&utm_campaign=9781787124677"><img src="https://user-images.githubusercontent.com/2276156/43361728-b3dfd95c-92a5-11e8-955d-94910efb9348.png" alt="Learning Salesforce Lightning Application Development
 " height="256px" align="right"></a>
 
 This is the code repository for [Learning Salesforce Lightning Application Development
