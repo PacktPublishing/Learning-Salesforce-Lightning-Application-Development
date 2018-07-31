@@ -175,13 +175,13 @@ With the following  software and hardware list you can runt all the code file pr
 
 ### Software and Hardware List
 
-| Chapter  | Software required                   |      OS required               |       
-| -------- | ------------------------------------| -------------------------------|-----------------------------------|
-| 1     | SFDX CLI downloaded from https://developer.salesforce.com/tools/sfdxcli | macOS/Windows/Linux               |  
-| 2     | VisualStudio Code Editor download from https://code.visualstudio.com/   | macOS/Windows/Linux               |             
-| 3     | SalesforceDX Plugin for VS Code https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode |       macOS/Windows/Linux |    
-                                                                                                                                         | 4     | Chrome browser                          | macOS/Windows/Linux |
-| 5     | Same as above                           | Same as above       |
+| Chapter  | Software required                   |      OS required    |                
+| -------- | ------------------------------------| -------------------------------
+| 1        | SFDX CLI                            | macOS/Windows/Linux |               
+| 2        | VisualStudio Code Editor            | macOS/Windows/Linux |                          
+| 3        | SalesforceDX Plugin for VS Code     | macOS/Windows/Linux |   
+| 4        | Chrome browser                      | macOS/Windows/Linux |
+| 5        | Same as above                       | Same as above       |
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/Unity2018ShadersandEffectsCookbookThirdEdition_ColorImages.pdf).
