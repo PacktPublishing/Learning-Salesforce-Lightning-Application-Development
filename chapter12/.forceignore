@@ -3,3 +3,5 @@
 #
 
 package.xml
+
+force-app/main/default/profiles/Learning Community Cloud Profile.profile-meta.xml
