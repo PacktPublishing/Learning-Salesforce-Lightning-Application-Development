@@ -122,3 +122,86 @@ https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_de
 ### 1 . ERROR:  entity type cannot be inserted: Scratch Org Info.
 
 This is because your user in the DevHub org does not have the DevHub Permission set assigned .Request your salesforce admin to give you access to this permission set in your DevHub org .
+
+# Learning Salesforce Lightning Application Development
+
+<a href="https://www.packtpub.com/application-development/learning-salesforce-lightning-application-development?utm_source=github&utm_medium=repository&utm_campaign=9781787124677"><img src="https://user-images.githubusercontent.com/2276156/43361728-b3dfd95c-92a5-11e8-955d-94910efb9348.png" alt="Learning Salesforce Lightning Application Development
+" height="256px" align="right"></a>
+
+This is the code repository for [Learning Salesforce Lightning Application Development
+](https://www.packtpub.com/application-development/learning-salesforce-lightning-application-development?utm_source=github&utm_medium=repository&utm_campaign=9781787124677), published by Packt.
+
+**Build and test Lightning Components for Salesforce Lightning Experience using Salesforce DX**
+
+## What is this book about?
+
+Built on the Salesforce App Cloud, the new Salesforce Lightning Experience combines three major components: Lightning Design System, Lightning App Builder, and Lightning Components to provide an enhanced User experience. This book will enable you to quickly create modern, enterprise apps with Lightning Component Framework.
+
+This book covers the following exciting features:
+* Understand Lightning component architecture
+* Learn Locker security best practices
+* Debug and Improve performance of your Lightning components
+* Use third party libraries along with the component framework
+* Learn how to publish Lightning components on AppExchange
+
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788396235) today!
+
+<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
+alt="https://www.packtpub.com/" border="5" /></a>
+
+
+## Instructions and Navigations
+All of the code is organized into folders. For example, Chapter02.
+
+The code will look like the following:
+```
+function StringUtils() {};
+
+StringUtils.prototype.concatenate = function(str1,str2) {
+  return str1.concat(str2);
+};
+
+StringUtils.prototype.camelcase = function(string) {
+  string = string.toLowerCase().replace(/(?:(^.)|([-_\s]+.))/g, function(match) {
+      return match.charAt(match.length-1).toUpperCase();
+  });
+  return string.charAt(0).toLowerCase() + string.substring(1);
+};
+```
+
+**Following is what you need for this book:**
+The ideal target audience for this book would be people eager to learn React Native and who already know the basics of JavaScript. We can assume that the target audience already knows how to write Hello World in JavaScript and know what are the functions, recursive functions, JavaScript types and loops.
+With the following  software and hardware list you can runt all the code file present in the book (Chapter 1-15)
+
+### Software and Hardware List
+
+| Chapter  | Software required                   |      OS required    |                
+| -------- | ------------------------------------| -------------------------------
+| 1        | SFDX CLI                            | macOS/Windows/Linux |               
+| 2        | VisualStudio Code Editor            | macOS/Windows/Linux |                          
+| 3        | SalesforceDX Plugin for VS Code     | macOS/Windows/Linux |   
+| 4        | Chrome browser                      | macOS/Windows/Linux |
+| 5        | Same as above                       | Same as above       |
+
+
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/LearningSalesforceLightningApplicationDevelopment_ColorImages.pdf).
+
+### Related products
+* Learning Salesforce Einstein [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/learning-salesforce-einstein?utm_source=github&utm_medium=repository&utm_campaign=9781787126893) [[Amazon]](https://www.amazon.com/dp/1787126897)
+
+* Salesforce Lightning Reporting and Dashboards [[Packt]](https://www.packtpub.com/application-development/salesforce-lightning-reporting-and-dashboards?utm_source=github&utm_medium=repository&utm_campaign=9781788297387) [[Amazon]](https://www.amazon.com/dp/1788297385)
+
+
+## Get to Know the Author
+**Mohith Shrivastava** has been building and architecting Salesforce applications since 2011, when he graduated from the National Institute of Engineering, Mysore.
+He is currently a Salesforce MVP and holds multiple Salesforce certifications. He is an active contributor on Salesforce Stack Exchange Community. Mohith has authored Learning Salesforce Einstein and Salesforce Essentials for Administrators for Packt publishing. In his leisure time, he loves exploring the latest technologies and spending time with his family.
+
+
+
+## Other books by the authors
+* [Salesforce Essentials for Administrators](https://www.packtpub.com/big-data-and-business-intelligence/salesforce-essentials-administrators?utm_source=github&utm_medium=repository&utm_campaign=9781784398071)
+
+
+### Suggestions and Feedback
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+
