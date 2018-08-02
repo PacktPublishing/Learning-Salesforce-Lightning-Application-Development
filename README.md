@@ -169,7 +169,7 @@ StringUtils.prototype.camelcase = function(string) {
 };
 ```
 
-**Following is what you need for this book:**
+**Target Audience for the Book:**
 The target audience for this book includes beginner, intermediate, and advanced Salesforce
 developers and architects who want to fully understand the capabilities of the Lightning
 Components Framework and learn about application development on the Salesforce
