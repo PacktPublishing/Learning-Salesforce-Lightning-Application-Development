@@ -170,8 +170,15 @@ StringUtils.prototype.camelcase = function(string) {
 ```
 
 **Following is what you need for this book:**
-The ideal target audience for this book would be people eager to learn React Native and who already know the basics of JavaScript. We can assume that the target audience already knows how to write Hello World in JavaScript and know what are the functions, recursive functions, JavaScript types and loops.
-With the following  software and hardware list you can runt all the code file present in the book (Chapter 1-15)
+The target audience for this book includes beginner, intermediate, and advanced Salesforce
+developers and architects who want to fully understand the capabilities of the Lightning
+Components Framework and learn about application development on the Salesforce
+platform.
+This book can also be used by JavaScript frontend developers who are familiar with
+JavaScript and want to understand the capabilities and boundaries of the Lightning
+Components Framework. The book also covers the integration capabilities of the
+framework with other open source JavaScript libraries and how to take Lightning
+components built on the platform to outside world.
 
 ### Software and Hardware List
 
