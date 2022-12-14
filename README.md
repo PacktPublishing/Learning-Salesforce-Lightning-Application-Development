@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781787124677)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Learning Salesforce Lightning Application Development
 
 ![b05909_mockupcovernew](https://user-images.githubusercontent.com/2276156/43361728-b3dfd95c-92a5-11e8-955d-94910efb9348.png)
